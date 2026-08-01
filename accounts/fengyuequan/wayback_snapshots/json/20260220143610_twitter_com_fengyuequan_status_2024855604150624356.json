@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2024855604150624356",
+    "created_at": "2026-02-20T14:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024855604150624356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999695376044163074",
+          "start": 3,
+          "username": "lfmirr0096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024855604150624356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024499330686562691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lfmirr0096: 老公宠我就专心舔老公，老公不宠我就乖乖出轨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2024855604150624356",
+        "created_at": "2026-02-20T14:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024855604150624356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999695376044163074",
+              "start": 3,
+              "username": "lfmirr0096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024855604150624356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024499330686562691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lfmirr0096: 老公宠我就专心舔老公，老公不宠我就乖乖出轨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999695376044163074",
+        "conversation_id": "2024499330686562691",
+        "created_at": "2026-02-19T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024499330686562691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024499330686562691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7808,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "老公宠我就专心舔老公，老公不宠我就乖乖出轨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 343,
+          "like_count": 5746,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 573
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T04:18:43.000Z",
+        "description": "我一个人的世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miningvii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miningvii_",
+                "start": 0,
+                "url": "https://t.co/MaY4uFKoCj"
+              }
+            ]
+          }
+        },
+        "id": "1999695376044163074",
+        "name": "lairrula",
+        "pinned_tweet_id": "2022741360877388019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012480267882049537/MGCZ0xOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/MaY4uFKoCj",
+        "username": "lfmirr0096",
+        "verified": false
+      }
+    ]
+  }
+}

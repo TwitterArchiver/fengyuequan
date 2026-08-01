@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2014727601982734431",
+    "created_at": "2026-01-23T15:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014727601982734431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014727601982734431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014601518708883952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 骗你的 其实我不止想做爱 我还想被爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2014727601982734431",
+        "created_at": "2026-01-23T15:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014727601982734431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014727601982734431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014601518708883952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 骗你的 其实我不止想做爱 我还想被爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2014601518708883952",
+        "created_at": "2026-01-23T07:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014601518708883952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014601518708883952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16001,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "骗你的 其实我不止想做爱 我还想被爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 344,
+          "like_count": 5406,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 526
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2014356704973189586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41049,
+          "following_count": 242,
+          "like_count": 5017,
+          "listed_count": 96,
+          "media_count": 309,
+          "tweet_count": 1383
+        },
+        "username": "wmtbxsh",
+        "verified": false
+      }
+    ]
+  }
+}

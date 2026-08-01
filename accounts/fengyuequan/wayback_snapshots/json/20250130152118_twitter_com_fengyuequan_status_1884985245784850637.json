@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1884969819797327968",
+    "created_at": "2025-01-30T15:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T16:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884985245784850637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1026431459895201793",
+          "start": 0,
+          "username": "j0928_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884985245784850637",
+    "in_reply_to_user_id": "1026431459895201793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884984269556371819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j0928_G 下一个更好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T15:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884985245784850637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1026431459895201793",
+              "start": 0,
+              "username": "j0928_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884985245784850637",
+        "in_reply_to_user_id": "1026431459895201793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884984269556371819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j0928_G 下一个更好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026431459895201793",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T15:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884984269556371819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884984269556371819",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884982892075651514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 真从恋爱走向聊骚的感觉 后面我赶紧分了 他连发十几二十条消息说我能不能安慰他，我烦的不行了直接给他屏蔽了，他看我不回消息开始打电话我靠最后给他拉黑了🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 336,
+          "like_count": 4172,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 311
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T11:35:04.000Z",
+        "description": "06",
+        "id": "1026431459895201793",
+        "location": "Hangzhou",
+        "name": "j…g…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554487005160939523/DUejLRsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "j0928_G",
+        "verified": false
+      }
+    ]
+  }
+}

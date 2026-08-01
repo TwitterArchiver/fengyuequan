@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2049678916143698401",
+    "created_at": "2026-04-30T02:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049678916143698401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862884625833660416",
+          "start": 3,
+          "username": "kuololxhssc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049678916143698401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049518950841790732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuololxhssc: 我有依赖病。亲密关系时对方说自己有事我会说你忙就好不用管我，实际上恨不得粘人身上当挂件…并且一不回我消息就开始胡思乱想焦虑思考自己是不是哪里说错了或者做的不好对方是不是讨厌我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2049678916143698401",
+        "created_at": "2026-04-30T02:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049678916143698401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862884625833660416",
+              "start": 3,
+              "username": "kuololxhssc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049678916143698401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049518950841790732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuololxhssc: 我有依赖病。亲密关系时对方说自己有事我会说你忙就好不用管我，实际上恨不得粘人身上当挂件…并且一不回我消息就开始胡思乱想焦虑思考自己是不是哪里说错了或者做的不好对方是不是讨厌我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "conversation_id": "2049518950841790732",
+        "created_at": "2026-04-29T15:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049518950841790732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049518950841790732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1792,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我有依赖病。亲密关系时对方说自己有事我会说你忙就好不用管我，实际上恨不得粘人身上当挂件…并且一不回我消息就开始胡思乱想焦虑思考自己是不是哪里说错了或者做的不好对方是不是讨厌我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 330,
+          "like_count": 6083,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 628
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "在这里放只小猫ᓚᘏᗢ 路过可以摸摸它^v^",
+        "id": "1862884625833660416",
+        "location": "૮₍ˊᗜˋ₎ა",
+        "name": "papa",
+        "pinned_tweet_id": "2045137796692893771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045006452927188992/D1K_Nh7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 52,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 110
+        },
+        "username": "kuololxhssc",
+        "verified": false
+      }
+    ]
+  }
+}

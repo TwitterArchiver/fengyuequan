@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1876236681780908233",
+    "created_at": "2025-01-06T15:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876286057052070382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801179676305694720",
+          "start": 0,
+          "username": "XiangBianDang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876286057052070382",
+    "in_reply_to_user_id": "1801179676305694720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876280862104547692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiangBianDang 哈哈哈哈拎小鸡仔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1876236681780908233",
+        "created_at": "2025-01-06T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876286057052070382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801179676305694720",
+              "start": 0,
+              "username": "XiangBianDang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876286057052070382",
+        "in_reply_to_user_id": "1801179676305694720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876280862104547692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiangBianDang 哈哈哈哈拎小鸡仔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801179676305694720",
+        "conversation_id": "1876236681780908233",
+        "created_at": "2025-01-06T14:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T15:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876280862104547692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876280862104547692",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876236681780908233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 他会像拎小鸡仔一样 把小鸡鸡拎起来😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 337,
+          "like_count": 3871,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 276
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T09:08:07.000Z",
+        "description": "自用🪜蛮便宜😽 https://t.co/Kf25QdeqT1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfx01.com/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://xfx01.com/#/register?code=T6jzXRs8",
+                "start": 8,
+                "url": "https://t.co/Kf25QdeqT1"
+              }
+            ]
+          }
+        },
+        "id": "1801179676305694720",
+        "name": "一盒香香便当🍱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864124888157704193/UFv7sUue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 81,
+          "like_count": 1419,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 974
+        },
+        "username": "XiangBianDang",
+        "verified": false
+      }
+    ]
+  }
+}

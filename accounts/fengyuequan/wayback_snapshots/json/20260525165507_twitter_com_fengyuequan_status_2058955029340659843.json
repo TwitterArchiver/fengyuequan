@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2058955029340659843",
+    "created_at": "2026-05-25T16:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058955029340659843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1363431990490357760",
+          "start": 3,
+          "username": "xiaogtg521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058955029340659843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058392884362268831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaogtg521: 你什么意思，你希望你的男朋友既是青涩处男又身经百战技术娴熟服务意识强又不能太让你招架不住必须脸红害羞但是说出来的必须是让你脸红心跳的熟练荤话吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2058955029340659843",
+        "created_at": "2026-05-25T16:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058955029340659843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1363431990490357760",
+              "start": 3,
+              "username": "xiaogtg521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955029340659843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058392884362268831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaogtg521: 你什么意思，你希望你的男朋友既是青涩处男又身经百战技术娴熟服务意识强又不能太让你招架不住必须脸红害羞但是说出来的必须是让你脸红心跳的熟练荤话吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363431990490357760",
+        "conversation_id": "2058392884362268831",
+        "created_at": "2026-05-24T03:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058392884362268831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058392884362268831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 196886,
+          "like_count": 4544,
+          "quote_count": 114,
+          "reply_count": 332,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "你什么意思，你希望你的男朋友既是青涩处男又身经百战技术娴熟服务意识强又不能太让你招架不住必须脸红害羞但是说出来的必须是让你脸红心跳的熟练荤话吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 330,
+          "like_count": 6092,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 634
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:15:05.000Z",
+        "description": "睡觉了。",
+        "id": "1363431990490357760",
+        "name": "次犬",
+        "pinned_tweet_id": "2058830421543321956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057025315730513920/K9C6egYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 358,
+          "like_count": 1924,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 1200
+        },
+        "username": "xiaogtg521",
+        "verified": false
+      }
+    ]
+  }
+}

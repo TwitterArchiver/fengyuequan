@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1884969819797327968",
+    "created_at": "2025-01-30T16:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884996830032953363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1203222326600441856",
+          "start": 0,
+          "username": "reveur233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884996830032953363",
+    "in_reply_to_user_id": "1203222326600441856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884988706995700196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reveur233 希望我能遇到这样的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T16:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884996830032953363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1203222326600441856",
+              "start": 0,
+              "username": "reveur233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884996830032953363",
+        "in_reply_to_user_id": "1203222326600441856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884988706995700196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveur233 希望我能遇到这样的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203222326600441856",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T15:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884988706995700196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884988706995700196",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884969819797327968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 正常的就是前期不会撩骚，会很尊重你，花心思追你，可能会追很久，得看你是否也喜欢他，然后他接受到你的反馈信号后，会正式问你：能做他女朋友吗？（个人经验分享，真的很喜欢你的人，不会前期说骚话）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 336,
+          "like_count": 4179,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 312
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-07T07:59:05.000Z",
+        "description": "跟我一起每天喝2L水，防止肾结石",
+        "id": "1203222326600441856",
+        "location": "Blue Earth ",
+        "name": "请多喝水",
+        "pinned_tweet_id": "1612472257716289537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483400874001006596/UCq1bZN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 50,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 800
+        },
+        "username": "reveur233",
+        "verified": false
+      }
+    ]
+  }
+}

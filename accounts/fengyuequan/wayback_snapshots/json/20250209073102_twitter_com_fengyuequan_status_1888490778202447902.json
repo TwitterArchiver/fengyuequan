@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888490759109963776"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "1888490778202447902",
+    "created_at": "2025-02-09T07:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T08:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888490778202447902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/57aTaTAdN4",
+          "end": 42,
+          "expanded_url": "https://x.com/fengyuequan/status/1888490778202447902/photo/1",
+          "media_key": "3_1888490759109963776",
+          "start": 19,
+          "url": "https://t.co/57aTaTAdN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888490778202447902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "桥豆麻袋，不是喜欢剑纯这个职业的意思 https://t.co/57aTaTAdN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_1888490759109963776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjVEVvpbcAArsih.jpg",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888490759109963776"
+          ]
+        },
+        "author_id": "1420786012469354501",
+        "conversation_id": "1888490778202447902",
+        "created_at": "2025-02-09T07:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T08:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888490778202447902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57aTaTAdN4",
+              "end": 42,
+              "expanded_url": "https://x.com/fengyuequan/status/1888490778202447902/photo/1",
+              "media_key": "3_1888490759109963776",
+              "start": 19,
+              "url": "https://t.co/57aTaTAdN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888490778202447902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桥豆麻袋，不是喜欢剑纯这个职业的意思 https://t.co/57aTaTAdN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 340,
+          "like_count": 4351,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 342
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

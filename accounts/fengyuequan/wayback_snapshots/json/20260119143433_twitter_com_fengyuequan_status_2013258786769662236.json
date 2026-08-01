@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2013222377778290803",
+    "created_at": "2026-01-19T14:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013258786769662236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128266971168927745",
+          "start": 0,
+          "username": "kkkshy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013258786769662236",
+    "in_reply_to_user_id": "1128266971168927745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013257077980839976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkshy1 不愧是唐门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2013222377778290803",
+        "created_at": "2026-01-19T14:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013258786769662236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128266971168927745",
+              "start": 0,
+              "username": "kkkshy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013258786769662236",
+        "in_reply_to_user_id": "1128266971168927745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013257077980839976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkshy1 不愧是唐门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128266971168927745",
+        "conversation_id": "2013222377778290803",
+        "created_at": "2026-01-19T14:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013257077980839976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013257077980839976",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013222377778290803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 还是我们唐门好，每次回游上线第一件事就是先研究配装，然后打半小时木桩，然后进本测实战输出，然后再打半小时木桩，然后模拟配装，检查副本掉落列表，然后搞清楚自己下周要拍哪几件装备，然后心满意足下线睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 343,
+          "like_count": 5379,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 518
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T11:53:02.000Z",
+        "description": "夜间动物",
+        "id": "1128266971168927745",
+        "name": "秋声",
+        "pinned_tweet_id": "1874136501849821678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404132292876849158/vR1WRA2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 43,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 254
+        },
+        "username": "kkkshy1",
+        "verified": false
+      }
+    ]
+  }
+}

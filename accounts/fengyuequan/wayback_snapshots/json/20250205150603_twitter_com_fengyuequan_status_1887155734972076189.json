@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1886798126461382931",
+    "created_at": "2025-02-05T15:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887155734972076189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1225287319101399040",
+          "start": 0,
+          "username": "DaHuangGuaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887155734972076189",
+    "in_reply_to_user_id": "1225287319101399040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887123347324207290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaHuangGuaaa 也不用疯狂，但至少每天得涩一下吧👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1886798126461382931",
+        "created_at": "2025-02-05T15:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887155734972076189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1225287319101399040",
+              "start": 0,
+              "username": "DaHuangGuaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887155734972076189",
+        "in_reply_to_user_id": "1225287319101399040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887123347324207290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaHuangGuaaa 也不用疯狂，但至少每天得涩一下吧👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225287319101399040",
+        "conversation_id": "1886798126461382931",
+        "created_at": "2025-02-05T12:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887123347324207290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887123347324207290",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886798126461382931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 所以说恋爱脑+涩情狂是不是等于一个每天只想疯狂想跟你涩涩的男朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 339,
+          "like_count": 4264,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 329
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T05:17:28.000Z",
+        "description": "社畜，萌新霸刀，持续懵逼中",
+        "id": "1225287319101399040",
+        "name": "DaHuangGuaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835958750416715776/cMZ7yzNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 180
+        },
+        "username": "DaHuangGuaaa",
+        "verified": false
+      }
+    ]
+  }
+}

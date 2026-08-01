@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1885342767184044249",
+    "created_at": "2025-01-31T16:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T17:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885361928908005635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446879120609009667",
+          "start": 0,
+          "username": "gurenghs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885361928908005635",
+    "in_reply_to_user_id": "1446879120609009667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885359619738132599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gurenghs 玩剑三玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1885342767184044249",
+        "created_at": "2025-01-31T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885361928908005635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446879120609009667",
+              "start": 0,
+              "username": "gurenghs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885361928908005635",
+        "in_reply_to_user_id": "1446879120609009667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885359619738132599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gurenghs 玩剑三玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446879120609009667",
+        "conversation_id": "1885342767184044249",
+        "created_at": "2025-01-31T16:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885359619738132599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885359619738132599",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885342767184044249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 玩了剑三只想打jjc，别人都奔现结婚了我还在找队友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 336,
+          "like_count": 4221,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 317
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T16:44:09.000Z",
+        "description": "收个脑洞去写文",
+        "id": "1446879120609009667",
+        "name": "清月照影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878348322160914432/WSh2Cfg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 329,
+          "like_count": 101,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "username": "gurenghs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1824855262274162883",
+    "created_at": "2024-08-18T14:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T15:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825176516713447557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128266971168927745",
+          "start": 0,
+          "username": "kkkshy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825176516713447557",
+    "in_reply_to_user_id": "1128266971168927745",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824855262274162883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkshy1 好牛逼的想法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1824855262274162883",
+        "created_at": "2024-08-18T14:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T15:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825176516713447557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128266971168927745",
+              "start": 0,
+              "username": "kkkshy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825176516713447557",
+        "in_reply_to_user_id": "1128266971168927745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824855262274162883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkshy1 好牛逼的想法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128266971168927745",
+        "conversation_id": "1824855262274162883",
+        "created_at": "2024-08-17T17:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T18:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824855262274162883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengyuequan/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/fengyuequan/status/1824436599427391809",
+              "start": 88,
+              "url": "https://t.co/yvsjQE94oD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824855262274162883",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824436599427391809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你搞个比赛吧，就叫磕炮好声音，把每次磕炮的录音发出来，让大家从声线，文本，喘等等各方面纬度进行打分。\n\n赢的人可以获得一个鸡巴外形的麦克风和赛博大音茎的称号，我可以全程赞助。 https://t.co/yvsjQE94oD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🫐",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 295,
+          "like_count": 2737,
+          "listed_count": 7,
+          "tweet_count": 220
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T11:53:02.000Z",
+        "description": "写手/夜间动物/私信看到会回",
+        "id": "1128266971168927745",
+        "name": "秋声",
+        "pinned_tweet_id": "1818276556814631183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404132292876849158/vR1WRA2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 36,
+          "like_count": 159,
+          "listed_count": 0,
+          "tweet_count": 192
+        },
+        "username": "kkkshy1",
+        "verified": false
+      }
+    ]
+  }
+}

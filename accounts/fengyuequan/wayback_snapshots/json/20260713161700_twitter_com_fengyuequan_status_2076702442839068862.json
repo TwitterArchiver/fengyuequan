@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2076639153639567473",
+    "created_at": "2026-07-13T16:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076702442839068862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076702442839068862",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076639153639567473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 想看想看端碗等饭饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2076639153639567473",
+        "created_at": "2026-07-13T16:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076702442839068862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702442839068862",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076639153639567473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 想看想看端碗等饭饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2076639153639567473",
+        "created_at": "2026-07-13T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076639153639567473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076639153639567473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6140,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想到个挺有意思的企划，黄文接龙。\n\n开个仅限互关评论，几个黄文大博主一人几段在评论区接龙。可以推进故事，也可以蓄意给后面的博主开坑……当然，大家总体是抱着写一个完整的故事而努力。\n\n可惜我玩推几年依然单机，再来水平、口碑和性别有限，拉不起这个大旗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 337,
+          "like_count": 6287,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82034,
+          "following_count": 92,
+          "like_count": 12550,
+          "listed_count": 136,
+          "media_count": 15,
+          "tweet_count": 2739
+        },
+        "url": "",
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

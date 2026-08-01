@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1873395729273909629",
+    "created_at": "2024-12-30T09:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T10:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873655772762210727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128266971168927745",
+          "start": 0,
+          "username": "kkkshy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873655772762210727",
+    "in_reply_to_user_id": "1128266971168927745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873655115019952330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkshy1 好专业！老师什么时候开下篇饭！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1873395729273909629",
+        "created_at": "2024-12-30T09:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T10:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873655772762210727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128266971168927745",
+              "start": 0,
+              "username": "kkkshy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873655772762210727",
+        "in_reply_to_user_id": "1128266971168927745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873655115019952330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkshy1 好专业！老师什么时候开下篇饭！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128266971168927745",
+        "conversation_id": "1873395729273909629",
+        "created_at": "2024-12-30T08:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T09:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873655115019952330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873655115019952330",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873395729273909629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 我写色文的时候管这个叫:翕动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 333,
+          "like_count": 3732,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 266
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T11:53:02.000Z",
+        "description": "写手/夜间动物/私信看到会回",
+        "id": "1128266971168927745",
+        "name": "秋声",
+        "pinned_tweet_id": "1818276556814631183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404132292876849158/vR1WRA2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 30,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 216
+        },
+        "username": "kkkshy1",
+        "verified": false
+      }
+    ]
+  }
+}

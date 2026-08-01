@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2064206804305973462",
+    "created_at": "2026-06-09T04:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064206804305973462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482633259196506114",
+          "start": 3,
+          "username": "chouliulian_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064206804305973462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063853070761804119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chouliulian_: 我以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后我沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。我发现自己需要的是接吻，拥抱，亲密地相处，需要拥抱睡觉，需要发自内心的相爱。我的心需要高潮，我需要一段亲密…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2064206804305973462",
+        "created_at": "2026-06-09T04:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064206804305973462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482633259196506114",
+              "start": 3,
+              "username": "chouliulian_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064206804305973462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063853070761804119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chouliulian_: 我以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后我沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。我发现自己需要的是接吻，拥抱，亲密地相处，需要拥抱睡觉，需要发自内心的相爱。我的心需要高潮，我需要一段亲密…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482633259196506114",
+        "conversation_id": "2063853070761804119",
+        "created_at": "2026-06-08T05:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063853070761804119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063853070761804119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 22627,
+          "like_count": 714,
+          "quote_count": 7,
+          "reply_count": 67,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "我以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后我沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。我发现自己需要的是接吻，拥抱，亲密地相处，需要拥抱睡觉，需要发自内心的相爱。我的心需要高潮，我需要一段亲密关系。被爱才是我最难说出口的xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "咬咬",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 330,
+          "like_count": 6123,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 642
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T08:38:17.000Z",
+        "description": "废话很多\n\nhttps://t.co/jCNRfmhkaw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%A6%B4%E8%8…",
+                "end": 29,
+                "expanded_url": "https://ngl.link/%E6%A6%B4%E8%8E%B21",
+                "start": 6,
+                "url": "https://t.co/jCNRfmhkaw"
+              }
+            ]
+          }
+        },
+        "id": "1482633259196506114",
+        "name": "我不是笨蛋阿喂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037146928715386880/XOvSQ_tP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 25,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 244
+        },
+        "username": "chouliulian_",
+        "verified": false
+      }
+    ]
+  }
+}

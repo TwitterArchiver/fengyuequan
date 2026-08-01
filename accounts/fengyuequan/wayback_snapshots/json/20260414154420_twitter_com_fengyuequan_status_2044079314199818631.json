@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2044079314199818631",
+    "created_at": "2026-04-14T15:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044079314199818631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575433568217493505",
+          "start": 3,
+          "username": "kangaroo2380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044079314199818631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043957247768977777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangaroo2380: 极端的占有欲才会让我感到被爱\n我不喜欢平淡温暖的情绪\n我要的是热烈而又疯狂\n我要带着痛的爱\n只有把对方捏碎了揉进身体里\n这样的爱才会让我感到安全感\n我就喜欢占有欲爆炸的行动派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2044079314199818631",
+        "created_at": "2026-04-14T15:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044079314199818631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575433568217493505",
+              "start": 3,
+              "username": "kangaroo2380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044079314199818631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043957247768977777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangaroo2380: 极端的占有欲才会让我感到被爱\n我不喜欢平淡温暖的情绪\n我要的是热烈而又疯狂\n我要带着痛的爱\n只有把对方捏碎了揉进身体里\n这样的爱才会让我感到安全感\n我就喜欢占有欲爆炸的行动派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575433568217493505",
+        "conversation_id": "2043957247768977777",
+        "created_at": "2026-04-14T07:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043957247768977777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043957247768977777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2540,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "极端的占有欲才会让我感到被爱\n我不喜欢平淡温暖的情绪\n我要的是热烈而又疯狂\n我要带着痛的爱\n只有把对方捏碎了揉进身体里\n这样的爱才会让我感到安全感\n我就喜欢占有欲爆炸的行动派"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 335,
+          "like_count": 6074,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 606
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T10:33:40.000Z",
+        "description": "孩子 你今天开心吗 私信只回口令",
+        "id": "1575433568217493505",
+        "location": "Hong Kong",
+        "name": "妈妈",
+        "pinned_tweet_id": "1954600270526361830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654535463536046080/8bRO46Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30635,
+          "following_count": 88,
+          "like_count": 848,
+          "listed_count": 72,
+          "media_count": 50,
+          "tweet_count": 262
+        },
+        "username": "kangaroo2380",
+        "verified": false
+      }
+    ]
+  }
+}

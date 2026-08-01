@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1806007907974103172",
+    "created_at": "2024-06-27T16:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T17:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806359025187266925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "955932454048731136",
+          "start": 0,
+          "username": "miracle6522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806359025187266925",
+    "in_reply_to_user_id": "955932454048731136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806223041745338469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miracle6522 啊咧？目前还没有这种业务。我的推特就是单纯发骚和发牢骚……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1806007907974103172",
+        "created_at": "2024-06-27T16:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T17:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806359025187266925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "955932454048731136",
+              "start": 0,
+              "username": "miracle6522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806359025187266925",
+        "in_reply_to_user_id": "955932454048731136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806223041745338469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miracle6522 啊咧？目前还没有这种业务。我的推特就是单纯发骚和发牢骚……"
+      },
+      {
+        "attachments": {},
+        "author_id": "955932454048731136",
+        "conversation_id": "1806007907974103172",
+        "created_at": "2024-06-27T07:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T08:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806223041745338469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806223041745338469",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806007907974103172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 私信不了，想问门槛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🫐",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738212399193210882/MYI8PfOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 277,
+          "like_count": 2258,
+          "listed_count": 6,
+          "tweet_count": 154
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-23T22:37:12.000Z",
+        "description": "Hentai",
+        "id": "955932454048731136",
+        "name": "测量者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/962002046709739520/WSvDY6VJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 937,
+          "like_count": 1702,
+          "listed_count": 11,
+          "tweet_count": 88
+        },
+        "username": "miracle6522",
+        "verified": false
+      }
+    ]
+  }
+}

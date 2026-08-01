@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2061469321491304539",
+    "created_at": "2026-06-01T15:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061469321491304539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1857471601454768128",
+          "start": 3,
+          "username": "ScreamButSilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061469321491304539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061279587104166170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScreamButSilent: 突然意识到我真的很喜欢无意识的撒娇，或者说是温和的撒泼，和亲近熟悉的人相处的时候更甚，但是我耐心又很差，撒娇两次不达目的我就想翻脸了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2061469321491304539",
+        "created_at": "2026-06-01T15:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061469321491304539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1857471601454768128",
+              "start": 3,
+              "username": "ScreamButSilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061469321491304539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061279587104166170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScreamButSilent: 突然意识到我真的很喜欢无意识的撒娇，或者说是温和的撒泼，和亲近熟悉的人相处的时候更甚，但是我耐心又很差，撒娇两次不达目的我就想翻脸了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "2061279587104166170",
+        "created_at": "2026-06-01T02:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061279587104166170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061279587104166170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1595,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到我真的很喜欢无意识的撒娇，或者说是温和的撒泼，和亲近熟悉的人相处的时候更甚，但是我耐心又很差，撒娇两次不达目的我就想翻脸了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "咬咬",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 330,
+          "like_count": 6105,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 639
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "别再叹息皱眉头",
+        "id": "1857471601454768128",
+        "name": "梨从",
+        "pinned_tweet_id": "1931283850761830468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060358433245904896/P3CkZcFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 261,
+          "like_count": 750,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 3665
+        },
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

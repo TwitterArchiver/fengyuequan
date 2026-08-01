@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2041532510442791103",
+    "created_at": "2026-04-07T15:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041532510442791103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041532510442791103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这辈子、下辈子、下下辈子都不要主动了\n一点都不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2041532510442791103",
+        "created_at": "2026-04-07T15:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041532510442791103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041532510442791103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子、下辈子、下下辈子都不要主动了\n一点都不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 334,
+          "like_count": 6019,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 612
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

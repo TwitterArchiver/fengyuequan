@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1882830216881705315",
+    "created_at": "2025-01-25T15:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T16:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883168652125757579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387237108658499584",
+          "start": 0,
+          "username": "huageaicaobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883168652125757579",
+    "in_reply_to_user_id": "1387237108658499584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882893104304549983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huageaicaobi 都剑纯了，爱剑网三"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1882830216881705315",
+        "created_at": "2025-01-25T15:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883168652125757579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387237108658499584",
+              "start": 0,
+              "username": "huageaicaobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883168652125757579",
+        "in_reply_to_user_id": "1387237108658499584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882893104304549983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huageaicaobi 都剑纯了，爱剑网三"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387237108658499584",
+        "conversation_id": "1882830216881705315",
+        "created_at": "2025-01-24T20:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T21:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882893104304549983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882893104304549983",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882830216881705315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 他爱啥呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 335,
+          "like_count": 4078,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 294
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T02:48:02.000Z",
+        "description": "在役，电子竞技玩家，剑网三知名复制选手，晚睡协会会长，秃头协会花哥，rqrh",
+        "id": "1387237108658499584",
+        "name": "笙箫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456044150525071362/zL_Ez6IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 2287,
+          "like_count": 2587,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 1993
+        },
+        "username": "huageaicaobi",
+        "verified": false
+      }
+    ]
+  }
+}

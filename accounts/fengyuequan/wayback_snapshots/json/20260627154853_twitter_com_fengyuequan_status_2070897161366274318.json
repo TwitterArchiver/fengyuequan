@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2070897161366274318",
+    "created_at": "2026-06-27T15:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070897161366274318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanLan93083241…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LanLan93083241/status/2070425129600082071",
+          "start": 13,
+          "url": "https://t.co/JmlzQ30our"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070897161366274318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070425129600082071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候让我谈一个这样的 https://t.co/JmlzQ30our"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2070897161366274318",
+        "created_at": "2026-06-27T15:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070897161366274318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanLan93083241…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LanLan93083241/status/2070425129600082071",
+              "start": 13,
+              "url": "https://t.co/JmlzQ30our"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070897161366274318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070425129600082071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候让我谈一个这样的 https://t.co/JmlzQ30our"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2070425129600082071",
+        "created_at": "2026-06-26T08:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070425129600082071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070425129600082071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20883,
+          "like_count": 601,
+          "quote_count": 19,
+          "reply_count": 25,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "黏人精就应该和黏人精待在一起，在你突然特别想他的时候，想掏出手机给他发我好想你的时候，发现聊天框里已经有了一条我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 335,
+          "like_count": 6211,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都是快乐的 谢谢喜欢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2069674139145932961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42462,
+          "following_count": 2910,
+          "like_count": 40832,
+          "listed_count": 130,
+          "media_count": 1674,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

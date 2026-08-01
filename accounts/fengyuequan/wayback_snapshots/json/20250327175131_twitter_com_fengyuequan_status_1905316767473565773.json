@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1849512370193784833"
+      ],
+      "media_source_tweet_id": [
+        "1849514092043608172"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "1905316767473565773",
+    "created_at": "2025-03-27T17:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T18:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905316767473565773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1659255985607946242",
+          "start": 3,
+          "username": "hot_778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDiZvSajOc",
+          "end": 48,
+          "expanded_url": "https://x.com/Vdsxx1/status/1849514092043608172/video/1",
+          "media_key": "13_1849512370193784833",
+          "start": 25,
+          "url": "https://t.co/WDiZvSajOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905316767473565773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855589977792680383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hot_778: 给新娘一个难忘的婚礼。 https://t.co/WDiZvSajOc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905316767473565773].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905316767473565773",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905316767473565773"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5378531,
+        "height": 720,
+        "media_key": "13_1849512370193784833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1849512370193784833/img/N6kJHm272rkRi8hf.jpg",
+        "public_metrics": {
+          "view_count": 179033
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849512370193784833/vid/avc1/480x270/I8PSR0hwdusapqqF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849512370193784833/vid/avc1/640x360/_FFnf-A-eCCqjDBl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849512370193784833/vid/avc1/1280x720/AI-rSsRAtE1ba578.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1849512370193784833/pl/cDNC-DXGe9M3j526.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1849512370193784833"
+          ],
+          "media_source_tweet_id": [
+            "1849514092043608172"
+          ]
+        },
+        "author_id": "1659255985607946242",
+        "conversation_id": "1855589977792680383",
+        "created_at": "2024-11-10T12:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T13:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855589977792680383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDiZvSajOc",
+              "end": 35,
+              "expanded_url": "https://x.com/Vdsxx1/status/1849514092043608172/video/1",
+              "media_key": "13_1849512370193784833",
+              "start": 12,
+              "url": "https://t.co/WDiZvSajOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855589977792680383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 734,
+          "impression_count": 155850,
+          "like_count": 2142,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "给新娘一个难忘的婚礼。 https://t.co/WDiZvSajOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 348,
+          "like_count": 4923,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 381
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T17:54:03.000Z",
+        "description": "（接推广）把老婆贡献给大屌男，让她成为胯下的玩物是我这个绿帽做过最正确的事，老婆现在也愿意献身给黑爹和大屌男 ｜BBC♠️NTR重度患者｜这里只欢迎媚黑粉，崇拜巨根，极度媚黑（只要屌够大什么都行）防失踪：@Love_hotwife009 （🚪150）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Love_hotwife009"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "6.needss.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://6.needss.one/#/register?code=sJqOlAjw",
+                "start": 0,
+                "url": "https://t.co/d5e8r0vEw2"
+              }
+            ]
+          }
+        },
+        "id": "1659255985607946242",
+        "location": "👉自用梯子",
+        "name": "♠️BBC♠️媚黑夫妻_QOS",
+        "pinned_tweet_id": "1899295399493714191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660347215439863808/LfxkiHgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32635,
+          "following_count": 956,
+          "like_count": 9003,
+          "listed_count": 146,
+          "media_count": 1249,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/d5e8r0vEw2",
+        "username": "hot_778",
+        "verified": false
+      }
+    ]
+  }
+}

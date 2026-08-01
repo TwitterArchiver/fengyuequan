@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2014541728272023950",
+    "created_at": "2026-01-23T04:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014560510008836565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684107245750034432",
+          "start": 0,
+          "username": "Sspike0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014560510008836565",
+    "in_reply_to_user_id": "1684107245750034432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014541728272023950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sspike0831 居然还是黑皮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2014541720126685186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UXBV1bAAIwHAd.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2014541728272023950",
+        "created_at": "2026-01-23T04:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014560510008836565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684107245750034432",
+              "start": 0,
+              "username": "Sspike0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014560510008836565",
+        "in_reply_to_user_id": "1684107245750034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014541728272023950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sspike0831 居然还是黑皮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014541720126685186"
+          ]
+        },
+        "author_id": "1684107245750034432",
+        "conversation_id": "2014541728272023950",
+        "created_at": "2026-01-23T03:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T04:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014541728272023950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "剑三"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "剑网三"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPnfdWqcrw",
+              "end": 37,
+              "expanded_url": "https://x.com/Sspike0831/status/2014541728272023950/photo/1",
+              "media_key": "3_2014541720126685186",
+              "start": 14,
+              "url": "https://t.co/zPnfdWqcrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014541728272023950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来激情 #剑三 #剑网三 https://t.co/zPnfdWqcrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 344,
+          "like_count": 5398,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 525
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T07:44:33.000Z",
+        "description": "",
+        "id": "1684107245750034432",
+        "name": "触石雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697181503279812608/4pdd_uiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 108,
+          "like_count": 1197,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 585
+        },
+        "username": "Sspike0831",
+        "verified": false
+      }
+    ]
+  }
+}

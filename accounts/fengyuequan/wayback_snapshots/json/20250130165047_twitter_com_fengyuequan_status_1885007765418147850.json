@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1884969819797327968",
+    "created_at": "2025-01-30T16:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885007765418147850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1852836053859921920",
+          "start": 0,
+          "username": "csc1110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885007765418147850",
+    "in_reply_to_user_id": "1852836053859921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885000065150071145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csc1110 摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T16:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885007765418147850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1852836053859921920",
+              "start": 0,
+              "username": "csc1110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885007765418147850",
+        "in_reply_to_user_id": "1852836053859921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885000065150071145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csc1110 摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852836053859921920",
+        "conversation_id": "1884969819797327968",
+        "created_at": "2025-01-30T16:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885000065150071145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885000065150071145",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884969819797327968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 没聊骚感觉也没谈成正常健康的恋爱🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 336,
+          "like_count": 4187,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 313
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T22:12:04.000Z",
+        "description": "我爱你。",
+        "id": "1852836053859921920",
+        "location": "海底",
+        "name": "K",
+        "pinned_tweet_id": "1884932179911954525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885006795405750272/nHRiI7dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 18,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 250
+        },
+        "username": "csc1110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2013183260424323441",
+    "created_at": "2026-01-19T10:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T11:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013201734601171054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1613756661168066562",
+          "start": 0,
+          "username": "xiog59133499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013201734601171054",
+    "in_reply_to_user_id": "1613756661168066562",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013201386130100611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiog59133499 🈚️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2013183260424323441",
+        "created_at": "2026-01-19T10:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013201734601171054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1613756661168066562",
+              "start": 0,
+              "username": "xiog59133499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013201734601171054",
+        "in_reply_to_user_id": "1613756661168066562",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013201386130100611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiog59133499 🈚️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613756661168066562",
+        "conversation_id": "2013183260424323441",
+        "created_at": "2026-01-19T10:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013201386130100611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013201386130100611",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013199559489618126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 现在嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 343,
+          "like_count": 5376,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 516
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T04:35:57.000Z",
+        "description": "",
+        "id": "1613756661168066562",
+        "location": "Central Region, Singapore",
+        "name": "小风",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 81,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "xiog59133499",
+        "verified": false
+      }
+    ]
+  }
+}

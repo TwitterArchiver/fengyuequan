@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1894410367750844869",
+    "created_at": "2025-02-25T15:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T16:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894410367750844869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880108847953747968",
+          "start": 3,
+          "username": "bing111330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894410367750844869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894349484811063568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing111330: 好想跟一个…只会喜欢我的人谈恋爱 长长久久的 平淡淡的恋爱 稳稳的幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1894410367750844869",
+        "created_at": "2025-02-25T15:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T16:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894410367750844869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880108847953747968",
+              "start": 3,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894410367750844869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894349484811063568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing111330: 好想跟一个…只会喜欢我的人谈恋爱 长长久久的 平淡淡的恋爱 稳稳的幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880108847953747968",
+        "conversation_id": "1894349484811063568",
+        "created_at": "2025-02-25T11:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894349484811063568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894349484811063568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7236,
+          "like_count": 162,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "好想跟一个…只会喜欢我的人谈恋爱 长长久久的 平淡淡的恋爱 稳稳的幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2225,
+          "following_count": 339,
+          "like_count": 4465,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 356
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝皮下也是个萌面侠",
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1887813586405437845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880110463847133184/3hTAldsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 108,
+          "like_count": 2071,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1130
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

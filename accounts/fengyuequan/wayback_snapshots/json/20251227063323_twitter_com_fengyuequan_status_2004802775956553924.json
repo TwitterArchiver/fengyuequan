@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004802603151228928"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "2004802775956553924",
+    "created_at": "2025-12-27T06:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004802775956553924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhDyhJoxQZ",
+          "end": 29,
+          "expanded_url": "https://x.com/fengyuequan/status/2004802775956553924/photo/1",
+          "media_key": "3_2004802603151228928",
+          "start": 6,
+          "url": "https://t.co/LhDyhJoxQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004802775956553924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情缘缘视角 https://t.co/LhDyhJoxQZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004802775956553924].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004802775956553924",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004802775956553924"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2618,
+        "media_key": "3_2004802603151228928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9J9WH2bgAAIk_F.jpg",
+        "width": 1916
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 341,
+          "like_count": 5097,
+          "listed_count": 8,
+          "media_count": 32,
+          "tweet_count": 445
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

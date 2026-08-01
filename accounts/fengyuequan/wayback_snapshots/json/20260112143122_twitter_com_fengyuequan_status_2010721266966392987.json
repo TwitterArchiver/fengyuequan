@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2010704712451203236",
+    "created_at": "2026-01-12T14:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010721266966392987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1579746525969801219",
+          "start": 0,
+          "username": "sunndusty_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010721266966392987",
+    "in_reply_to_user_id": "1579746525969801219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010707948775875055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunndusty_ 宝宝！我亲！我亲！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010707948775875055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010707948775875055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010707948775875055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2010704712451203236",
+        "created_at": "2026-01-12T14:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010721266966392987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1579746525969801219",
+              "start": 0,
+              "username": "sunndusty_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010721266966392987",
+        "in_reply_to_user_id": "1579746525969801219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010707948775875055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunndusty_ 宝宝！我亲！我亲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 338,
+          "like_count": 5244,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 476
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T08:11:47.000Z",
+        "description": "剑三双梦，lol电一✨\n（擦边博主☁️谈电子女友，享赛博人生☁️‖喜欢美女，请路过的老婆都贴上来（确信）‖喜欢小猫，欢迎闲聊‖不扩列没门槛，不约不谈不磕(声音好听除外)，现实的事别问太多🌷",
+        "id": "1579746525969801219",
+        "name": "尘霁（",
+        "pinned_tweet_id": "1625809407396442112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603462476615815168/u7vGKo6t_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7776,
+          "following_count": 355,
+          "like_count": 622,
+          "listed_count": 24,
+          "media_count": 147,
+          "tweet_count": 2193
+        },
+        "username": "sunndusty_",
+        "verified": false
+      }
+    ]
+  }
+}

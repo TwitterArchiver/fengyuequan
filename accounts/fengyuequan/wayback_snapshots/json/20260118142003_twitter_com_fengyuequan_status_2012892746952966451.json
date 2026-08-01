@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2012886881902506416",
+    "created_at": "2026-01-18T14:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012892746952966451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498586374173528064",
+          "start": 0,
+          "username": "guan81462457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012892746952966451",
+    "in_reply_to_user_id": "1498586374173528064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012892525657481708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guan81462457 养不起新号了👉🏻👈🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2012886881902506416",
+        "created_at": "2026-01-18T14:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012892746952966451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498586374173528064",
+              "start": 0,
+              "username": "guan81462457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012892746952966451",
+        "in_reply_to_user_id": "1498586374173528064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012892525657481708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guan81462457 养不起新号了👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498586374173528064",
+        "conversation_id": "2012886881902506416",
+        "created_at": "2026-01-18T14:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012892525657481708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012892525657481708",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012888169780322468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 去玩剑纯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 342,
+          "like_count": 5354,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 505
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T09:10:17.000Z",
+        "description": "双梦黑皮刀爹丨🔞喜欢各种玩法丨酸角粥绝密普坝爱好者丨欢迎扩列唠嗑",
+        "id": "1498586374173528064",
+        "location": "双梦成都",
+        "name": "驭奴",
+        "pinned_tweet_id": "2011045165520339200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010746209695313920/xXWxTqg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 639,
+          "like_count": 310,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 478
+        },
+        "username": "guan81462457",
+        "verified": false
+      }
+    ]
+  }
+}

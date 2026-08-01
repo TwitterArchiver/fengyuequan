@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1895348213957234688"
+      ],
+      "media_source_tweet_id": [
+        "1895348300775317947"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "1902780125265224120",
+    "created_at": "2025-03-20T17:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T18:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902780125265224120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1190007883431153664",
+          "start": 3,
+          "username": "av_sensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ofsCGBMFPG",
+          "end": 104,
+          "expanded_url": "https://x.com/av_sensei/status/1895348300775317947/video/1",
+          "media_key": "7_1895348213957234688",
+          "start": 81,
+          "url": "https://t.co/ofsCGBMFPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902780125265224120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895348300775317947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @av_sensei: FANZA【新着動画紹介】\n\n「雑魚ま●こすぎてごめんなさい」ひ弱な少女の敏感ま●こをいたずらして恥じらいお漏らし性交 設楽ゆうひ https://t.co/ofsCGBMFPG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902780125265224120].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902780125265224120",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902780125265224120"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64521,
+        "height": 432,
+        "media_key": "7_1895348213957234688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895348213957234688/pu/img/2F0stSag-C1nc_LB.jpg",
+        "public_metrics": {
+          "view_count": 9129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895348213957234688/pu/vid/avc1/480x270/yDqpg_BuiYydJxwc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895348213957234688/pu/vid/avc1/768x432/1ZL-fi2EO-x-PV_s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895348213957234688/pu/pl/NJaTDv6ujYvAWR0w.m3u8?tag=12"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895348213957234688"
+          ]
+        },
+        "author_id": "1190007883431153664",
+        "conversation_id": "1895348300775317947",
+        "created_at": "2025-02-28T05:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T06:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895348300775317947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofsCGBMFPG",
+              "end": 89,
+              "expanded_url": "https://x.com/av_sensei/status/1895348300775317947/video/1",
+              "media_key": "7_1895348213957234688",
+              "start": 66,
+              "url": "https://t.co/ofsCGBMFPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895348300775317947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 32911,
+          "like_count": 279,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "FANZA【新着動画紹介】\n\n「雑魚ま●こすぎてごめんなさい」ひ弱な少女の敏感ま●こをいたずらして恥じらいお漏らし性交 設楽ゆうひ https://t.co/ofsCGBMFPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 344,
+          "like_count": 4829,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 374
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-31T20:49:31.000Z",
+        "description": "AV女優や作品名が分からなくて困っている方へこっそり教えちゃいます。※DMでの特定依頼にはお答えしておりません。ご了承下さい。\n\n※休止していたAVの特定を再開しました。今後は気が向いた時だけ特定することにします。あまり期待しないで下さいね。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-sensei.com",
+                "end": 23,
+                "expanded_url": "https://av-sensei.com/",
+                "start": 0,
+                "url": "https://t.co/DW9CoOO8KB"
+              }
+            ]
+          }
+        },
+        "id": "1190007883431153664",
+        "name": "教えてAV先生",
+        "pinned_tweet_id": "1895594974584193188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190045466542526464/y8EuX9lL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595321,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 3327,
+          "media_count": 39362,
+          "tweet_count": 112883
+        },
+        "url": "https://t.co/DW9CoOO8KB",
+        "username": "av_sensei",
+        "verified": true
+      }
+    ]
+  }
+}

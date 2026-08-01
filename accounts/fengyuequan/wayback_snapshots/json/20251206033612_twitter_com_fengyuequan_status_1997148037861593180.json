@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1997148037861593180",
+    "created_at": "2025-12-06T03:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T04:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997148037861593180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ereshkigal_000…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Ereshkigal_0000/status/1996873786856296721",
+          "start": 3,
+          "url": "https://t.co/yFF7H1jgwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997148037861593180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996873786856296721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 https://t.co/yFF7H1jgwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1996873773220614145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZSHeob0AEz9rK.jpg",
+        "width": 1848
+      },
+      {
+        "height": 338,
+        "media_key": "3_1996873773220519936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZSHeoaYAArUvA.jpg",
+        "width": 818
+      },
+      {
+        "height": 120,
+        "media_key": "3_1996873773224800256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZSHepbsAAzQ6-.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1997148037861593180",
+        "created_at": "2025-12-06T03:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997148037861593180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ereshkigal_000…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Ereshkigal_0000/status/1996873786856296721",
+              "start": 3,
+              "url": "https://t.co/yFF7H1jgwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997148037861593180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996873786856296721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/yFF7H1jgwY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996873773220614145",
+            "3_1996873773220519936",
+            "3_1996873773224800256"
+          ]
+        },
+        "author_id": "1662623869419782144",
+        "conversation_id": "1996873786856296721",
+        "created_at": "2025-12-05T09:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996873786856296721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vj42IgfLMs",
+              "end": 28,
+              "expanded_url": "https://x.com/Ereshkigal_0000/status/1996873786856296721/photo/1",
+              "media_key": "3_1996873773220614145",
+              "start": 5,
+              "url": "https://t.co/vj42IgfLMs"
+            },
+            {
+              "display_url": "pic.x.com/vj42IgfLMs",
+              "end": 28,
+              "expanded_url": "https://x.com/Ereshkigal_0000/status/1996873786856296721/photo/1",
+              "media_key": "3_1996873773220519936",
+              "start": 5,
+              "url": "https://t.co/vj42IgfLMs"
+            },
+            {
+              "display_url": "pic.x.com/vj42IgfLMs",
+              "end": 28,
+              "expanded_url": "https://x.com/Ereshkigal_0000/status/1996873786856296721/photo/1",
+              "media_key": "3_1996873773224800256",
+              "start": 5,
+              "url": "https://t.co/vj42IgfLMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996873786856296721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 217672,
+          "like_count": 223,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "才知道… https://t.co/vj42IgfLMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 343,
+          "like_count": 5096,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 441
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T00:56:55.000Z",
+        "description": "🟠🫂（20/10000）",
+        "id": "1662623869419782144",
+        "location": "🌱",
+        "name": "🟠",
+        "pinned_tweet_id": "1947250710833225759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802980118379511808/RE90yFV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1331,
+          "like_count": 16547,
+          "listed_count": 7,
+          "media_count": 250,
+          "tweet_count": 4173
+        },
+        "username": "Ereshkigal_0000",
+        "verified": false
+      }
+    ]
+  }
+}

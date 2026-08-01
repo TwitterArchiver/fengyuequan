@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1885342767184044249",
+    "created_at": "2025-01-31T15:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T16:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885342767184044249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885342767184044249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早知道就上学的时候来个早恋了\n还能体会一下纯爱\n现在二十多岁的社畜恋爱经历只有网恋\n大学舍友都拍结婚照了\n我还在搞这个破剑网三"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1885342767184044249",
+        "created_at": "2025-01-31T15:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885342767184044249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885342767184044249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早知道就上学的时候来个早恋了\n还能体会一下纯爱\n现在二十多岁的社畜恋爱经历只有网恋\n大学舍友都拍结婚照了\n我还在搞这个破剑网三"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 336,
+          "like_count": 4206,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 314
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

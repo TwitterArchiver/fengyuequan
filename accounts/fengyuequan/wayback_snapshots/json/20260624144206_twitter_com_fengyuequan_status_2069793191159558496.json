@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2069793191159558496",
+    "created_at": "2026-06-24T14:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069793191159558496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040045603665698816",
+          "start": 3,
+          "username": "dD8740274718577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069793191159558496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069738729531666769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dD8740274718577: 和初恋对象一直接吻你就能发现她什么时候学会在接吻中呼吸，在青涩中成长，纯美之处在于曾经结束后胸腔起伏双颊涨红的是她，现在主动蹭过来用舌头勾你舌尖继续的也是她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2069793191159558496",
+        "created_at": "2026-06-24T14:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069793191159558496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040045603665698816",
+              "start": 3,
+              "username": "dD8740274718577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069793191159558496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069738729531666769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dD8740274718577: 和初恋对象一直接吻你就能发现她什么时候学会在接吻中呼吸，在青涩中成长，纯美之处在于曾经结束后胸腔起伏双颊涨红的是她，现在主动蹭过来用舌头勾你舌尖继续的也是她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040045603665698816",
+        "conversation_id": "2069738729531666769",
+        "created_at": "2026-06-24T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069738729531666769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069738729531666769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4255,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "和初恋对象一直接吻你就能发现她什么时候学会在接吻中呼吸，在青涩中成长，纯美之处在于曾经结束后胸腔起伏双颊涨红的是她，现在主动蹭过来用舌头勾你舌尖继续的也是她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 335,
+          "like_count": 6180,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T12:36:10.000Z",
+        "description": "下贱的欲望\n所有内容皆为原创",
+        "id": "2040045603665698816",
+        "name": "恶魔69",
+        "pinned_tweet_id": "2068205518179717589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056101920956456960/Jg4MvcyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31384,
+          "following_count": 0,
+          "like_count": 37,
+          "listed_count": 19,
+          "media_count": 16,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "dD8740274718577",
+        "verified": true
+      }
+    ]
+  }
+}

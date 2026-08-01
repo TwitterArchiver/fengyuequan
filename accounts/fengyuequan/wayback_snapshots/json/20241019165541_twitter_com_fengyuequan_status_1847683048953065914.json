@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1847304636245704771",
+    "created_at": "2024-10-19T16:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T17:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847683048953065914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1400056308032704520",
+          "start": 0,
+          "username": "yi85083700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847683048953065914",
+    "in_reply_to_user_id": "1400056308032704520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847306242685075915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi85083700 有道理！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1847304636245704771",
+        "created_at": "2024-10-19T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847683048953065914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1400056308032704520",
+              "start": 0,
+              "username": "yi85083700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847683048953065914",
+        "in_reply_to_user_id": "1400056308032704520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847306242685075915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi85083700 有道理！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400056308032704520",
+        "conversation_id": "1847304636245704771",
+        "created_at": "2024-10-18T15:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T16:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847306242685075915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847306242685075915",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847304636245704771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 我觉得珍惜当下吧 及时行乐 因为想的太远永远会不快乐 珍惜当下一步步走就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🍻(新欢在怀版)",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 311,
+          "like_count": 3113,
+          "listed_count": 6,
+          "tweet_count": 243
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-02T11:46:58.000Z",
+        "description": "直男 switch 男喘 不谈恋爱 不搞1v1",
+        "id": "1400056308032704520",
+        "name": "yi",
+        "pinned_tweet_id": "1817871460695769193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403369560221175812/CPHNW_eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 260,
+          "like_count": 7425,
+          "listed_count": 22,
+          "tweet_count": 6701
+        },
+        "username": "yi85083700",
+        "verified": false
+      }
+    ]
+  }
+}

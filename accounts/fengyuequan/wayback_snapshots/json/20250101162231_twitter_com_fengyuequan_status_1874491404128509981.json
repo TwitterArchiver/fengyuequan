@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1874491404128509981",
+    "created_at": "2025-01-01T16:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T17:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874491404128509981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660510716934361088",
+          "start": 3,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874491404128509981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871148423497613607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Studio42: 想明白了，“反差”的本质就是用社会身份、道德规训剥夺掉女性本就存在的性欲，再把它还回去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1874491404128509981",
+        "created_at": "2025-01-01T16:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T17:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874491404128509981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660510716934361088",
+              "start": 3,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874491404128509981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871148423497613607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Studio42: 想明白了，“反差”的本质就是用社会身份、道德规训剥夺掉女性本就存在的性欲，再把它还回去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "1871148423497613607",
+        "created_at": "2024-12-23T10:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T11:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871148423497613607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871148423497613607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 157760,
+          "like_count": 986,
+          "quote_count": 15,
+          "reply_count": 44,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "想明白了，“反差”的本质就是用社会身份、道德规训剥夺掉女性本就存在的性欲，再把它还回去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 335,
+          "like_count": 3802,
+          "listed_count": 6,
+          "media_count": 27,
+          "tweet_count": 276
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1838138133428461611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38655,
+          "following_count": 111,
+          "like_count": 6659,
+          "listed_count": 56,
+          "media_count": 18,
+          "tweet_count": 1370
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

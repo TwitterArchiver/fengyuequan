@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2069354919925350641",
+    "created_at": "2026-06-23T09:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069354919925350641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812910248640061442",
+          "start": 3,
+          "username": "meowo2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069354919925350641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068965394187255829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowo2333: 你们知道撒娇说：“我讨厌你。”然后得到一句：“又讨厌我啦？”有多爽吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2069354919925350641",
+        "created_at": "2026-06-23T09:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069354919925350641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812910248640061442",
+              "start": 3,
+              "username": "meowo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069354919925350641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068965394187255829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowo2333: 你们知道撒娇说：“我讨厌你。”然后得到一句：“又讨厌我啦？”有多爽吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812910248640061442",
+        "conversation_id": "2068965394187255829",
+        "created_at": "2026-06-22T07:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068965394187255829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068965394187255829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 26045,
+          "like_count": 603,
+          "quote_count": 21,
+          "reply_count": 39,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道撒娇说：“我讨厌你。”然后得到一句：“又讨厌我啦？”有多爽吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 334,
+          "like_count": 6146,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T18:01:11.000Z",
+        "description": "心有瑰宝 绚丽璀璨 头像小猪猪叫Rocky @pudding21920",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "pudding21920"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/torres20515",
+                "end": 23,
+                "expanded_url": "https://ngl.link/torres20515",
+                "start": 0,
+                "url": "https://t.co/iHp4iRaKYh"
+              }
+            ]
+          }
+        },
+        "id": "1812910248640061442",
+        "location": "焦糖布丁春日半岛",
+        "name": "甜心老爹^",
+        "pinned_tweet_id": "2067283341393691055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007151632791023618/ghES87aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 219,
+          "like_count": 18673,
+          "listed_count": 1,
+          "media_count": 1036,
+          "tweet_count": 8848
+        },
+        "url": "https://t.co/iHp4iRaKYh",
+        "username": "meowo2333",
+        "verified": false
+      }
+    ]
+  }
+}

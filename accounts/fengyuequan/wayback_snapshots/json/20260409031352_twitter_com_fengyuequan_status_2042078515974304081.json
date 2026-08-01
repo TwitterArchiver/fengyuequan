@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2042072741826981953",
+    "created_at": "2026-04-09T03:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042078515974304081"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042078515974304081",
+    "in_reply_to_user_id": "1420786012469354501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042072741826981953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有一点解决问题的能力，只会哭。干脆把我解决了吧orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2042072741826981953",
+        "created_at": "2026-04-09T03:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042078515974304081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042078515974304081",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042072741826981953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有一点解决问题的能力，只会哭。干脆把我解决了吧orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2042072741826981953",
+        "created_at": "2026-04-09T02:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042072741826981953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042072741826981953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候能不那么情绪化啊\n我真是求求我自己了\n明明等一会看到的消息就完全不一样\n但是根本等不了\n眼泪水一下就包不住了\n更没勇气看之后的信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 334,
+          "like_count": 6033,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 590
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

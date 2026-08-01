@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2011751789054607669",
+    "created_at": "2026-01-15T13:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011787429242683490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1646441678989926401",
+          "start": 0,
+          "username": "jjnyyds926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011787429242683490",
+    "in_reply_to_user_id": "1646441678989926401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011783859566940499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjnyyds926 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2011751789054607669",
+        "created_at": "2026-01-15T13:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011787429242683490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1646441678989926401",
+              "start": 0,
+              "username": "jjnyyds926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011787429242683490",
+        "in_reply_to_user_id": "1646441678989926401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011783859566940499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjnyyds926 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646441678989926401",
+        "conversation_id": "2011751789054607669",
+        "created_at": "2026-01-15T12:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011783859566940499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011783859566940499",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011751789054607669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 说明你想谈自己爱上的人，而不是爱上你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 341,
+          "like_count": 5304,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 492
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T09:15:14.000Z",
+        "description": "你眨眨眼睛，就变成一颗星星落入我怀里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/TwIE1F4PyI"
+              }
+            ]
+          }
+        },
+        "id": "1646441678989926401",
+        "location": "中国",
+        "name": "醉梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840211944722030592/R30MOEDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/TwIE1F4PyI",
+        "username": "jjnyyds926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2060392697953997121",
+    "created_at": "2026-05-29T16:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060392697953997121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040252685056942080",
+          "start": 3,
+          "username": "Sekumi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060392697953997121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060199277947986089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sekumi1111: えち終わったら\n\n・お股拭いてくれる\n・服を着させてくれる\n・布団を被せてくれる\n・頭をポンポンしてくれる\n・胸の中で「愛してる」って連呼してくれる\n・腕の感覚なくなっても腕枕してくれる\n\nこれが男の六大義務。保健の教科書に載せてくれ。載せないな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2060392697953997121",
+        "created_at": "2026-05-29T16:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060392697953997121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040252685056942080",
+              "start": 3,
+              "username": "Sekumi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060392697953997121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060199277947986089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sekumi1111: えち終わったら\n\n・お股拭いてくれる\n・服を着させてくれる\n・布団を被せてくれる\n・頭をポンポンしてくれる\n・胸の中で「愛してる」って連呼してくれる\n・腕の感覚なくなっても腕枕してくれる\n\nこれが男の六大義務。保健の教科書に載せてくれ。載せないな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040252685056942080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378064648751095808",
+              "name": "Japan Ministry of Education, Culture, Sports, Science and Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378064648751095808",
+              "name": "Japan Ministry of Education, Culture, Sports, Science and Technology"
+            }
+          }
+        ],
+        "conversation_id": "2060199277947986089",
+        "created_at": "2026-05-29T03:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060199277947986089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060199277947986089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1452,
+          "impression_count": 598230,
+          "like_count": 8584,
+          "quote_count": 133,
+          "reply_count": 121,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "えち終わったら\n\n・お股拭いてくれる\n・服を着させてくれる\n・布団を被せてくれる\n・頭をポンポンしてくれる\n・胸の中で「愛してる」って連呼してくれる\n・腕の感覚なくなっても腕枕してくれる\n\nこれが男の六大義務。保健の教科書に載せてくれ。載せないなら文科省ごと拭いてやる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 330,
+          "like_count": 6099,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 636
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T02:20:38.000Z",
+        "description": "",
+        "id": "2040252685056942080",
+        "name": "Sekumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040253348813914112/5MBzI7jX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 17,
+          "like_count": 70,
+          "listed_count": 20,
+          "media_count": 4,
+          "tweet_count": 395
+        },
+        "username": "Sekumi1111",
+        "verified": true
+      }
+    ]
+  }
+}

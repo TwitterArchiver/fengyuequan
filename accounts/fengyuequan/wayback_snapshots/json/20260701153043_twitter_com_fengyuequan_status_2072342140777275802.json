@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2072342140777275802",
+    "created_at": "2026-07-01T15:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072342140777275802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851310932473102337",
+          "start": 3,
+          "username": "shuijiao239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072342140777275802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071647680506593633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuijiao239: 性欲强的和性欲低的在一起简直就是灾难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2072342140777275802",
+        "created_at": "2026-07-01T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072342140777275802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851310932473102337",
+              "start": 3,
+              "username": "shuijiao239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072342140777275802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071647680506593633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuijiao239: 性欲强的和性欲低的在一起简直就是灾难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851310932473102337",
+        "conversation_id": "2071647680506593633",
+        "created_at": "2026-06-29T17:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071647680506593633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071647680506593633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 339397,
+          "like_count": 1814,
+          "quote_count": 20,
+          "reply_count": 436,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "性欲强的和性欲低的在一起简直就是灾难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 337,
+          "like_count": 6263,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T17:11:53.000Z",
+        "description": "希望大家开开心心/🈶🐱",
+        "id": "1851310932473102337",
+        "location": "🚪50",
+        "name": "喜",
+        "pinned_tweet_id": "1906421764231746012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882845056358649858/c_Fl6uEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10249,
+          "following_count": 184,
+          "like_count": 155,
+          "listed_count": 35,
+          "media_count": 161,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "shuijiao239",
+        "verified": false
+      }
+    ]
+  }
+}

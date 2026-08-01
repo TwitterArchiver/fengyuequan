@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2040790751127470326",
+    "created_at": "2026-04-05T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040790751127470326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senlingui3/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/senlingui3/status/2039976484178473449",
+          "start": 8,
+          "url": "https://t.co/3B4IHOKyJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040790751127470326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039976484178473449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来如此啊大师 https://t.co/3B4IHOKyJ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2040790751127470326",
+        "created_at": "2026-04-05T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040790751127470326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senlingui3/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/senlingui3/status/2039976484178473449",
+              "start": 8,
+              "url": "https://t.co/3B4IHOKyJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040790751127470326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039976484178473449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来如此啊大师 https://t.co/3B4IHOKyJ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981426512797847553",
+        "conversation_id": "2039912958114038157",
+        "created_at": "2026-04-03T08:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039976484178473449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937334914808184834",
+              "start": 0,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039976484178473449",
+        "in_reply_to_user_id": "1937334914808184834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1402,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039912958114038157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaminC0327 粘人没关系，重要的是你要学会筛选，不让你粘人的，不回应你粘人需求的，立马让对方滚，对于符合你需求的人，表现得好就奖励。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 334,
+          "like_count": 5971,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 603
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T18:24:44.000Z",
+        "description": "游荡在人间的一只鬼",
+        "id": "1981426512797847553",
+        "name": "森林鬼",
+        "pinned_tweet_id": "2039255906446364803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981426580531662856/OOYQIjXW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 41,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 274
+        },
+        "username": "senlingui3",
+        "verified": false
+      }
+    ]
+  }
+}

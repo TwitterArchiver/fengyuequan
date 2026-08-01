@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2045270845468389385",
+    "created_at": "2026-04-17T22:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045270845468389385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043058360682209280",
+          "start": 3,
+          "username": "penguinecotmv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045270845468389385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045053451907039729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @penguinecotmv0: 性爱要是能永远存活在我的幻想里就好了。我想象中的性爱很好。我喜欢被心爱的人粗暴的对待，但只能被不忍心这样对我的人这样对待。只想给不舍得对我粗暴，很珍惜我的人当狗。想在被调的时候被骂的时候哭着对他说我好爱你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2045270845468389385",
+        "created_at": "2026-04-17T22:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045270845468389385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043058360682209280",
+              "start": 3,
+              "username": "penguinecotmv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045270845468389385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045053451907039729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @penguinecotmv0: 性爱要是能永远存活在我的幻想里就好了。我想象中的性爱很好。我喜欢被心爱的人粗暴的对待，但只能被不忍心这样对我的人这样对待。只想给不舍得对我粗暴，很珍惜我的人当狗。想在被调的时候被骂的时候哭着对他说我好爱你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043058360682209280",
+        "conversation_id": "2045053451907039729",
+        "created_at": "2026-04-17T08:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045053451907039729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045053451907039729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7222,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "性爱要是能永远存活在我的幻想里就好了。我想象中的性爱很好。我喜欢被心爱的人粗暴的对待，但只能被不忍心这样对我的人这样对待。只想给不舍得对我粗暴，很珍惜我的人当狗。想在被调的时候被骂的时候哭着对他说我好爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 334,
+          "like_count": 6077,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 611
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T20:07:56.000Z",
+        "description": "我只想有个地方能说一些平时不敢说的话",
+        "id": "2043058360682209280",
+        "name": "penguineco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043074678789672962/92dYhDNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 44,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "penguinecotmv0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2048089489265086955",
+    "created_at": "2026-04-25T17:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048089489265086955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds03/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hgds03/status/2048048376340746319",
+          "start": 8,
+          "url": "https://t.co/ko5pO9jNSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048089489265086955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048048376340746319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的眼泪不骗人 https://t.co/ko5pO9jNSd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2048089489265086955",
+        "created_at": "2026-04-25T17:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048089489265086955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hgds03/status/2048048376340746319",
+              "start": 8,
+              "url": "https://t.co/ko5pO9jNSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048089489265086955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048048376340746319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的眼泪不骗人 https://t.co/ko5pO9jNSd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2048048376340746319",
+        "created_at": "2026-04-25T14:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048048376340746319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048048376340746319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3821,
+          "like_count": 192,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "他既给不了你情绪价值 也给不了你正面陪伴也没有经济支持 他什么都给不了你 还把你变得每一天越来越焦虑敏感多疑 你的好朋友心疼你劝你离开你还捂着耳朵闭着眼睛去爱他 边哭边说他其实有时候对你还挺好的 可你的眼泪不骗人他也没有什么良心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 330,
+          "like_count": 6065,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 625
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2034824422222377028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 197,
+          "like_count": 1305,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 170
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

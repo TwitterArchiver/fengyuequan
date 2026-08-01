@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2024329996287037565",
+    "created_at": "2026-02-19T03:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024329996287037565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761601564962426880",
+          "start": 3,
+          "username": "2828yy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024329996287037565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024199899819266278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2828yy123: 我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2024329996287037565",
+        "created_at": "2026-02-19T03:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024329996287037565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761601564962426880",
+              "start": 3,
+              "username": "2828yy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024329996287037565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024199899819266278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2828yy123: 我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761601564962426880",
+        "conversation_id": "2024199899819266278",
+        "created_at": "2026-02-18T19:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024199899819266278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024199899819266278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3435,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 344,
+          "like_count": 5698,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 568
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQpnW  推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQpnW"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997712288418258944/Ezv73PhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11572,
+          "following_count": 557,
+          "like_count": 35580,
+          "listed_count": 15,
+          "media_count": 1663,
+          "tweet_count": 18630
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

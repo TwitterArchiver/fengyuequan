@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1880283732332146690"
+      ],
+      "media_source_tweet_id": [
+        "1880285831489024248"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "1880426955390275630",
+    "created_at": "2025-01-18T01:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T02:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880426955390275630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1432588256571396098",
+          "start": 3,
+          "username": "Axiyouyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m2BPnc5T4E",
+          "end": 60,
+          "expanded_url": "https://x.com/Axiyouyou/status/1880285831489024248/video/1",
+          "media_key": "7_1880283732332146690",
+          "start": 37,
+          "url": "https://t.co/m2BPnc5T4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880426955390275630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880285831489024248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Axiyouyou: 掀开了 爹爹&gt;⸝⸝⸝⸝&lt;^੭ﾞ https://t.co/m2BPnc5T4E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880426955390275630].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880426955390275630",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880426955390275630"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102585,
+        "height": 1080,
+        "media_key": "7_1880283732332146690",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1880283732332146690/pu/img/T9svvzB2CPSHm0Rt.jpg",
+        "public_metrics": {
+          "view_count": 17585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880283732332146690/pu/vid/avc1/480x270/ruQtZO4jxnvYQAMa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880283732332146690/pu/vid/avc1/640x360/9ZU-dNOBt6BSgDRH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880283732332146690/pu/vid/avc1/1280x720/r7RhKq0pUmL67lA1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1880283732332146690/pu/pl/Pn30nEtXV5GMgXBL.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880283732332146690"
+          ]
+        },
+        "author_id": "1432588256571396098",
+        "conversation_id": "1880285831489024248",
+        "created_at": "2025-01-17T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880285831489024248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2BPnc5T4E",
+              "end": 45,
+              "expanded_url": "https://x.com/Axiyouyou/status/1880285831489024248/video/1",
+              "media_key": "7_1880283732332146690",
+              "start": 22,
+              "url": "https://t.co/m2BPnc5T4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880285831489024248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 56061,
+          "like_count": 1719,
+          "quote_count": 0,
+          "reply_count": 423,
+          "retweet_count": 504
+        },
+        "reply_settings": "everyone",
+        "text": "掀开了 爹爹&gt;⸝⸝⸝⸝&lt;^੭ﾞ https://t.co/m2BPnc5T4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 337,
+          "like_count": 4041,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 287
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T06:17:32.000Z",
+        "description": "乳成人玩具游戏 寸止游戏博主\n感谢支持~合作私信\n❤️ 喜欢的记得点关注支持宝宝❤️  目前没有小号…开了会通知哦 ❤️",
+        "id": "1432588256571396098",
+        "name": "阿西",
+        "pinned_tweet_id": "1880175141684216062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704300956723429376/bWJjhvrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610407,
+          "following_count": 2,
+          "like_count": 6741,
+          "listed_count": 1176,
+          "media_count": 2063,
+          "tweet_count": 6076
+        },
+        "username": "Axiyouyou",
+        "verified": false
+      }
+    ]
+  }
+}

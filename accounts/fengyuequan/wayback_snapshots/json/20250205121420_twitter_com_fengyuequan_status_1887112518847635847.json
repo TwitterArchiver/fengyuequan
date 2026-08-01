@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1887112518847635847",
+    "created_at": "2025-02-05T12:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T13:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887112518847635847"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887112518847635847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦死惹\n满脑子都是想做爱\n但是没恋爱谈还没胆子出去约炮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1887112518847635847",
+        "created_at": "2025-02-05T12:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887112518847635847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887112518847635847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死惹\n满脑子都是想做爱\n但是没恋爱谈还没胆子出去约炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 339,
+          "like_count": 4265,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 327
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2019806871377596425",
+    "created_at": "2026-02-06T16:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019806871377596425"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "Affinity",
+          "probability": 0.5121,
+          "start": 120,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 119,
+          "tag": "Affinity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "748140653763244032",
+          "start": 3,
+          "username": "silvva2323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019806871377596425",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019587928595275830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silvva2323: Eu tava em dúvida se tava rolando língua nesses beijos, eles acabaram com minha dúvida, bicha do céu.\n\n#Affinity https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38011,
+        "height": 720,
+        "media_key": "7_2019587897855217664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019587897855217664/pu/img/Ix8fzG20XoqZKWqz.jpg",
+        "public_metrics": {
+          "view_count": 254226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019587897855217664/pu/vid/avc1/320x320/sOccP7tJPH40T5UO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019587897855217664/pu/vid/avc1/540x540/XalTSS-wwQgtxKgp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019587897855217664/pu/vid/avc1/720x720/M6v6inO00DZOFRr3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019587897855217664/pu/pl/HDwt0c80tSMvech9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2019806871377596425",
+        "created_at": "2026-02-06T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019806871377596425"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "Affinity",
+              "probability": 0.5121,
+              "start": 120,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 119,
+              "tag": "Affinity"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "748140653763244032",
+              "start": 3,
+              "username": "silvva2323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019806871377596425",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019587928595275830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silvva2323: Eu tava em dúvida se tava rolando língua nesses beijos, eles acabaram com minha dúvida, bicha do céu.\n\n#Affinity https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019587897855217664"
+          ]
+        },
+        "author_id": "748140653763244032",
+        "conversation_id": "2019587928595275830",
+        "created_at": "2026-02-06T01:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019587928595275830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "Affinity",
+              "probability": 0.6928,
+              "start": 104,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "Affinity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PO7eMExcxr",
+              "end": 136,
+              "expanded_url": "https://x.com/silvva2323/status/2019587928595275830/video/1",
+              "media_key": "7_2019587897855217664",
+              "start": 113,
+              "url": "https://t.co/PO7eMExcxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019587928595275830",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3068,
+          "impression_count": 583877,
+          "like_count": 6470,
+          "quote_count": 67,
+          "reply_count": 66,
+          "retweet_count": 406
+        },
+        "reply_settings": "everyone",
+        "text": "Eu tava em dúvida se tava rolando língua nesses beijos, eles acabaram com minha dúvida, bicha do céu.\n\n#Affinity https://t.co/PO7eMExcxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 344,
+          "like_count": 5594,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 555
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-29T13:06:47.000Z",
+        "description": "❤🅕🅛🅐🅜🅔🅝🅖🅤🅘🅢🅣🅐🖤\nᥱ́ stᥲᥒ de Doramas e turcas | Mᥙᥣtιfᥲᥒdom | 📺  Positively yours, Spring fever, No Tail to Tell, Undercover Miss Hong, Affinity.",
+        "id": "748140653763244032",
+        "location": "Balsas-Ma",
+        "name": "🔭🍜 Mari Silva🔴⚫",
+        "pinned_tweet_id": "1705319238544617790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345136950924234754/eK2k-3N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 2463,
+          "like_count": 60600,
+          "listed_count": 29,
+          "media_count": 15667,
+          "tweet_count": 38745
+        },
+        "username": "silvva2323",
+        "verified": false
+      }
+    ]
+  }
+}

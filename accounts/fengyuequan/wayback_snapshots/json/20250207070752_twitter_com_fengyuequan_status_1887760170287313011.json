@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1887504248537248120",
+    "created_at": "2025-02-07T07:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T08:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887760170287313011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700272278456672256",
+          "start": 0,
+          "username": "TecoEmmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887760170287313011",
+    "in_reply_to_user_id": "1700272278456672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887752997989671153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TecoEmmmm sm吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1887504248537248120",
+        "created_at": "2025-02-07T07:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887760170287313011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700272278456672256",
+              "start": 0,
+              "username": "TecoEmmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887760170287313011",
+        "in_reply_to_user_id": "1700272278456672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887752997989671153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TecoEmmmm sm吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700272278456672256",
+        "conversation_id": "1887504248537248120",
+        "created_at": "2025-02-07T06:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887752997989671153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887752997989671153",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887504248537248120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 还是两者兼得的模式更像字母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 339,
+          "like_count": 4311,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 338
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T22:18:10.000Z",
+        "description": "朋友圈发疯地 可吐槽树洞。 成分极其复杂。剑三双梦&原神&星铁刃厨&永劫&明日方舟…",
+        "id": "1700272278456672256",
+        "location": "平芜尽处是春山。",
+        "name": "TecoEmmmm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775062559948988416/IYlZN_yM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 925,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1074
+        },
+        "username": "TecoEmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

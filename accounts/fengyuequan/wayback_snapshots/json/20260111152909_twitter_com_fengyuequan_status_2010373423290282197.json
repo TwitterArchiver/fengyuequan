@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2010373423290282197",
+    "created_at": "2026-01-11T15:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010373423290282197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010373423290282197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4534,
+      "like_count": 27,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "撩我撩着又不回信息\n讨厌死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2010373423290282197",
+        "created_at": "2026-01-11T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010373423290282197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010373423290282197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4534,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "撩我撩着又不回信息\n讨厌死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 338,
+          "like_count": 5236,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 473
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

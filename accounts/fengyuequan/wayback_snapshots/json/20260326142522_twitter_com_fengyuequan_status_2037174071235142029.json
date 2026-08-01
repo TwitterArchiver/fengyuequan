@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2037174071235142029",
+    "created_at": "2026-03-26T14:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037174071235142029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926689407802687488",
+          "start": 3,
+          "username": "liulanggouwait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037174071235142029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036747905118474638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulanggouwait: 只对你发情还不能证明我的忠诚吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2037174071235142029",
+        "created_at": "2026-03-26T14:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037174071235142029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926689407802687488",
+              "start": 3,
+              "username": "liulanggouwait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037174071235142029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036747905118474638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulanggouwait: 只对你发情还不能证明我的忠诚吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926689407802687488",
+        "conversation_id": "2036747905118474638",
+        "created_at": "2026-03-25T10:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036747905118474638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036747905118474638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 42344,
+          "like_count": 709,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "只对你发情还不能证明我的忠诚吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 339,
+          "like_count": 5906,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 593
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T17:18:56.000Z",
+        "description": "19.1    2.0    1/4    2/3    狗                                                   由3/4m+1/4brat组成  爱是臣服",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liulanggouwait1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liulanggouwait1",
+                "start": 0,
+                "url": "https://t.co/U6fPDsDW5b"
+              }
+            ]
+          }
+        },
+        "id": "1926689407802687488",
+        "location": "我的幻想意淫碎碎念",
+        "name": "X",
+        "pinned_tweet_id": "2033204603177861610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988283548529577985/xxTmshNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 11,
+          "like_count": 142,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/U6fPDsDW5b",
+        "username": "liulanggouwait",
+        "verified": false
+      }
+    ]
+  }
+}

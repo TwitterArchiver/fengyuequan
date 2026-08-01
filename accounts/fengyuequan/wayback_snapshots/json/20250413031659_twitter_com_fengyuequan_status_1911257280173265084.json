@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1864309317177917440"
+      ],
+      "media_source_tweet_id": [
+        "1864309439680974936"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1911257280173265084",
+    "created_at": "2025-04-13T03:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T04:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911257280173265084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1073623230391283712",
+          "start": 3,
+          "username": "Goodness063026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMJtWD05m3",
+          "end": 56,
+          "expanded_url": "https://x.com/Goodness063026/status/1864309439680974936/video/1",
+          "media_key": "7_1864309317177917440",
+          "start": 33,
+          "url": "https://t.co/vMJtWD05m3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911257280173265084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864309439680974936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goodness063026: 是非常下流的小黄歌呢🎶🎶 https://t.co/vMJtWD05m3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911257280173265084].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911257280173265084",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911257280173265084"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139995,
+        "height": 720,
+        "media_key": "7_1864309317177917440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864309317177917440/pu/img/qem15VnPAuYspHNF.jpg",
+        "public_metrics": {
+          "view_count": 45979
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864309317177917440/pu/vid/avc1/480x270/mfKLnO5sUaxqRrq0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864309317177917440/pu/vid/avc1/640x360/rsZGWLNeSZmZtdGP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864309317177917440/pu/vid/avc1/1280x720/5zv2kPBbDEDLVksd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864309317177917440/pu/pl/p8A16c6Z8ZtVbNoJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1864309317177917440"
+          ]
+        },
+        "author_id": "1073623230391283712",
+        "conversation_id": "1864309439680974936",
+        "created_at": "2024-12-04T14:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864309439680974936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMJtWD05m3",
+              "end": 36,
+              "expanded_url": "https://x.com/Goodness063026/status/1864309439680974936/video/1",
+              "media_key": "7_1864309317177917440",
+              "start": 13,
+              "url": "https://t.co/vMJtWD05m3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864309439680974936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 620,
+          "impression_count": 204869,
+          "like_count": 1923,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "是非常下流的小黄歌呢🎶🎶 https://t.co/vMJtWD05m3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 350,
+          "like_count": 5095,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 413
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T16:58:19.000Z",
+        "description": "性冷淡晚期的痴女母人一枚",
+        "id": "1073623230391283712",
+        "name": "坏女人マキマ",
+        "pinned_tweet_id": "1874008146567717153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700412016593391616/6dvy1lYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108788,
+          "following_count": 3,
+          "like_count": 51,
+          "listed_count": 480,
+          "media_count": 797,
+          "tweet_count": 799
+        },
+        "username": "Goodness063026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1847304636245704771",
+    "created_at": "2024-10-18T15:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T16:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847304636245704771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1847304636245704771",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天策哥已经是第二次提到\n如果我真的很想要，一定要跟他说，不想让我受委屈\n真的是很会吸取前任教训的新欢\n\n但我也真的很满足了\n有种被爱包围的感觉\n\n只是……如果能看到会分开的话，是不是从一开始，就不在一起，会比较好……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1847304636245704771",
+        "created_at": "2024-10-18T15:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T16:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847304636245704771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847304636245704771",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天策哥已经是第二次提到\n如果我真的很想要，一定要跟他说，不想让我受委屈\n真的是很会吸取前任教训的新欢\n\n但我也真的很满足了\n有种被爱包围的感觉\n\n只是……如果能看到会分开的话，是不是从一开始，就不在一起，会比较好……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🍻(新欢在怀版)",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 311,
+          "like_count": 3103,
+          "listed_count": 6,
+          "tweet_count": 242
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

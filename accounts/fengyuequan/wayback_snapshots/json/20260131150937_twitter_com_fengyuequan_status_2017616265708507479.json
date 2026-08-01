@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2017616265708507479",
+    "created_at": "2026-01-31T15:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T16:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017616265708507479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1949410169362014209",
+          "start": 3,
+          "username": "yngyngyng1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017616265708507479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017474810390159783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yngyngyng1222: 我的占有欲很奇怪，我觉得吃醋说出来很丢人，还有明目张胆的撒娇也很丢人，我不喜欢我认为属于我的东西被别人抢走，我觉得你是我的你就得一直陪着我。我就希望看见你对每个人都冷冰冰的，然后当你看见我就有好心情，你要是找别人了，我就难过不想要了，所有关…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2017616265708507479",
+        "created_at": "2026-01-31T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017616265708507479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1949410169362014209",
+              "start": 3,
+              "username": "yngyngyng1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017616265708507479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017474810390159783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yngyngyng1222: 我的占有欲很奇怪，我觉得吃醋说出来很丢人，还有明目张胆的撒娇也很丢人，我不喜欢我认为属于我的东西被别人抢走，我觉得你是我的你就得一直陪着我。我就希望看见你对每个人都冷冰冰的，然后当你看见我就有好心情，你要是找别人了，我就难过不想要了，所有关…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949410169362014209",
+        "conversation_id": "2017474810390159783",
+        "created_at": "2026-01-31T05:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017474810390159783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017474810390159783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2186,
+          "like_count": 53,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我的占有欲很奇怪，我觉得吃醋说出来很丢人，还有明目张胆的撒娇也很丢人，我不喜欢我认为属于我的东西被别人抢走，我觉得你是我的你就得一直陪着我。我就希望看见你对每个人都冷冰冰的，然后当你看见我就有好心情，你要是找别人了，我就难过不想要了，所有关系我只接受1V1，这就是我无耻的占有欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 344,
+          "like_count": 5521,
+          "listed_count": 9,
+          "media_count": 30,
+          "tweet_count": 545
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T10:03:04.000Z",
+        "description": "欢迎来到我的日记本，我是小bi，性别是半根香蕉｜超级颜控！喜欢帅哥美女｜喜欢碎碎念 喜欢发我吃到好吃的｜不加任何联系方式，不聊骚不约炮｜匿名提问https://t.co/f9QtKiF32v",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yngyngyng1222",
+                "end": 95,
+                "expanded_url": "https://ngl.link/yngyngyng1222",
+                "start": 72,
+                "url": "https://t.co/f9QtKiF32v"
+              }
+            ]
+          }
+        },
+        "id": "1949410169362014209",
+        "location": "KEPLER-22B",
+        "name": "超级迷人的反派角色",
+        "pinned_tweet_id": "2017468335731183830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004600968110071808/0XyaP6oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 137,
+          "like_count": 13053,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 6463
+        },
+        "username": "yngyngyng1222",
+        "verified": false
+      }
+    ]
+  }
+}

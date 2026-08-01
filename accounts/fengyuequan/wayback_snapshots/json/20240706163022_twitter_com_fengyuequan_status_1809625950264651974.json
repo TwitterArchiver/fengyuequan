@@ -1,0 +1,157 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1809625359861837893",
+    "created_at": "2024-07-06T16:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T17:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809625950264651974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809625950264651974",
+    "in_reply_to_user_id": "1420786012469354501",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809625359861837893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kp有aftercare这个说法吗？大家也都是嗑完聊两句喜不喜欢就挂了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1809625359861837893",
+        "created_at": "2024-07-06T16:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809625950264651974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809625950264651974",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809625359861837893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kp有aftercare这个说法吗？大家也都是嗑完聊两句喜不喜欢就挂了吗？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809625195738722305"
+          ]
+        },
+        "author_id": "1420786012469354501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1809625359861837893",
+        "created_at": "2024-07-06T16:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809625359861837893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6fnTcBxurI",
+              "end": 174,
+              "expanded_url": "https://twitter.com/fengyuequan/status/1809625359861837893/photo/1",
+              "media_key": "3_1809625195738722305",
+              "start": 151,
+              "url": "https://t.co/6fnTcBxurI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809625359861837893",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纪念一下第一次kp\n丐哥声音好听，好评\n手机放在耳边感觉对方就在身边，感觉终于不是一个人了\n\n被指挥这第一次把手指插进去，虽然插进一个指节就动不了了，但是戳到嫩肉超嫩超软超滑的🥵\n就是小穴戳的有点痛……手指都还被泡皱了……\n\n还有就是事后比kp过程中害羞\naftercare也不敢提，说挂就只会嗯嗯嗯 https://t.co/6fnTcBxurI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🫐",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 281,
+          "like_count": 2359,
+          "listed_count": 7,
+          "tweet_count": 170
+        },
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}

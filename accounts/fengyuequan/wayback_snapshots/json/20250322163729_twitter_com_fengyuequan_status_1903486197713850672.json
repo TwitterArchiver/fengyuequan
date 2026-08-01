@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1903486197713850672",
+    "created_at": "2025-03-22T16:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T17:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903486197713850672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BrittanyBe8933…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/BrittanyBe89332/status/1903083918489948595",
+          "start": 51,
+          "url": "https://t.co/MftoIF531E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903486197713850672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903083918489948595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次给剑纯发就是在情人节，为了挽回他勾引他。但是到最后，思来想去，或许那个时候就应该放他自由才对。 https://t.co/MftoIF531E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1903486197713850672",
+        "created_at": "2025-03-22T16:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903486197713850672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BrittanyBe8933…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/BrittanyBe89332/status/1903083918489948595",
+              "start": 51,
+              "url": "https://t.co/MftoIF531E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903486197713850672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903083918489948595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次给剑纯发就是在情人节，为了挽回他勾引他。但是到最后，思来想去，或许那个时候就应该放他自由才对。 https://t.co/MftoIF531E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842268081567272960",
+        "conversation_id": "1903083918489948595",
+        "created_at": "2025-03-21T13:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903083918489948595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903083918489948595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 125478,
+          "like_count": 681,
+          "quote_count": 6,
+          "reply_count": 57,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每次给人发完逼照，我都会。很难过。会哭。非常奇怪。因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 344,
+          "like_count": 4854,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 378
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "𓂂𓈒 𓆜𓆞𓆝𓆟𓆡𓆝𓆟 𓆞𓆝𓆟",
+        "id": "1842268081567272960",
+        "location": "🚪520/1314",
+        "name": "你好，请，谢谢，再见。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894055180619902976/ZOEYvJFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18518,
+          "following_count": 158,
+          "like_count": 374,
+          "listed_count": 26,
+          "media_count": 80,
+          "tweet_count": 450
+        },
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

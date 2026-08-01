@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2076702572862407054",
+    "created_at": "2026-07-13T16:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076702572862407054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1969076990952275968",
+          "start": 3,
+          "username": "Iris1208dzqIris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076702572862407054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076377680929566827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris1208dzqIris: 对不起我不是故意烦你的 我只是有点喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2076702572862407054",
+        "created_at": "2026-07-13T16:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076702572862407054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1969076990952275968",
+              "start": 3,
+              "username": "Iris1208dzqIris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702572862407054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076377680929566827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iris1208dzqIris: 对不起我不是故意烦你的 我只是有点喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2076377680929566827",
+        "created_at": "2026-07-12T18:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076377680929566827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076377680929566827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8762,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我不是故意烦你的 我只是有点喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 337,
+          "like_count": 6288,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "脸颊少了你的吻",
+        "id": "1969076990952275968",
+        "name": "Iris",
+        "pinned_tweet_id": "2045720670689222769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070892594650058753/2d1ZK_F3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8724,
+          "following_count": 19,
+          "like_count": 1935,
+          "listed_count": 19,
+          "media_count": 130,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

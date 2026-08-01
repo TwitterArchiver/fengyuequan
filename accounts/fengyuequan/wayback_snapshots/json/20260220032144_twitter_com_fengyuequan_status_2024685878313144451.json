@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2024685878313144451",
+    "created_at": "2026-02-20T03:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024685878313144451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1635475392860397568",
+          "start": 3,
+          "username": "swatia111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024685878313144451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024417065831190658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swatia111: 你的意思是说在这个全国人民最闲的时候还是没人跟你聊天吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2024685878313144451",
+        "created_at": "2026-02-20T03:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024685878313144451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1635475392860397568",
+              "start": 3,
+              "username": "swatia111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024685878313144451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024417065831190658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swatia111: 你的意思是说在这个全国人民最闲的时候还是没人跟你聊天吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635475392860397568",
+        "conversation_id": "2024417065831190658",
+        "created_at": "2026-02-19T09:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024417065831190658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024417065831190658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 72020,
+          "like_count": 781,
+          "quote_count": 32,
+          "reply_count": 168,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是说在这个全国人民最闲的时候还是没人跟你聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 343,
+          "like_count": 5720,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 571
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T02:58:28.000Z",
+        "description": "发发废片，看完本人2000条推文再和我说话",
+        "id": "1635475392860397568",
+        "name": "薯薯",
+        "pinned_tweet_id": "2023702804968468830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990461051482316800/Py8agOTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10553,
+          "following_count": 32,
+          "like_count": 823,
+          "listed_count": 28,
+          "media_count": 478,
+          "tweet_count": 2694
+        },
+        "username": "swatia111",
+        "verified": false
+      }
+    ]
+  }
+}

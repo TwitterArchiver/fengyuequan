@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2008097263118364811",
+    "created_at": "2026-01-05T08:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008097263118364811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008097263118364811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007815026795540701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkqlbxc: 用男性思维谈恋爱\n1、sex 放第一位\n2、嫌微信信息多\n3、聊天只回最后一条\n4、说一堆承诺 然后做不到\n5、不分享日常\n6、平常不联系，逼痒再出现\n7、有矛盾不解释不沟通 倒头就睡\n8、惹他生气先不哄冷静再说\n9、被猜到心思就说话大声点，再说他不可…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2008097263118364811",
+        "created_at": "2026-01-05T08:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008097263118364811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008097263118364811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007815026795540701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkqlbxc: 用男性思维谈恋爱\n1、sex 放第一位\n2、嫌微信信息多\n3、聊天只回最后一条\n4、说一堆承诺 然后做不到\n5、不分享日常\n6、平常不联系，逼痒再出现\n7、有矛盾不解释不沟通 倒头就睡\n8、惹他生气先不哄冷静再说\n9、被猜到心思就说话大声点，再说他不可…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "2007815026795540701",
+        "created_at": "2026-01-04T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007815026795540701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007815026795540701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 169089,
+          "like_count": 2554,
+          "quote_count": 33,
+          "reply_count": 196,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "用男性思维谈恋爱\n1、sex 放第一位\n2、嫌微信信息多\n3、聊天只回最后一条\n4、说一堆承诺 然后做不到\n5、不分享日常\n6、平常不联系，逼痒再出现\n7、有矛盾不解释不沟通 倒头就睡\n8、惹他生气先不哄冷静再说\n9、被猜到心思就说话大声点，再说他不可理喻\n10、被发现有其他男人一律不承认"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 340,
+          "like_count": 5144,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 449
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90631,
+          "following_count": 138,
+          "like_count": 1215,
+          "listed_count": 98,
+          "media_count": 1746,
+          "tweet_count": 2687
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

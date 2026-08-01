@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1988176644742541454",
+    "created_at": "2025-11-11T09:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988176644742541454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604154566206926848",
+          "start": 3,
+          "username": "OoRe02086112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988176644742541454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988151208943710686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoRe02086112: 年上+爹系+会哄人+温柔+会报备+长得帅+给我爆金币+占有欲 +尊重女性 +三观正+180闷骚 请像厉鬼一样缠上我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1988176644742541454",
+        "created_at": "2025-11-11T09:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988176644742541454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604154566206926848",
+              "start": 3,
+              "username": "OoRe02086112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988176644742541454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988151208943710686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoRe02086112: 年上+爹系+会哄人+温柔+会报备+长得帅+给我爆金币+占有欲 +尊重女性 +三观正+180闷骚 请像厉鬼一样缠上我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "1988151208943710686",
+        "created_at": "2025-11-11T07:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988151208943710686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988151208943710686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8213,
+          "like_count": 177,
+          "quote_count": 15,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "年上+爹系+会哄人+温柔+会报备+长得帅+给我爆金币+占有欲 +尊重女性 +三观正+180闷骚 请像厉鬼一样缠上我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 345,
+          "like_count": 4978,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 437
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72299,
+          "following_count": 268,
+          "like_count": 5456,
+          "listed_count": 106,
+          "media_count": 264,
+          "tweet_count": 2019
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

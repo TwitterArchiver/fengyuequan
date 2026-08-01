@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1818993783394206129",
+    "created_at": "2024-08-07T14:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T15:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821191323430613284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446618997206790147",
+          "start": 0,
+          "username": "Rrrrr52326041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821191323430613284",
+    "in_reply_to_user_id": "1446618997206790147",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819670760736411814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrrrr52326041 可以笼统的归为性格不合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1818993783394206129",
+        "created_at": "2024-08-07T14:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T15:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821191323430613284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446618997206790147",
+              "start": 0,
+              "username": "Rrrrr52326041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821191323430613284",
+        "in_reply_to_user_id": "1446618997206790147",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819670760736411814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrrrr52326041 可以笼统的归为性格不合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446618997206790147",
+        "conversation_id": "1818993783394206129",
+        "created_at": "2024-08-03T09:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T10:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819670760736411814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819670760736411814",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818993783394206129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 为啥死了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "单身主义/只爱纸片男/花秀毒琴/热衷剑三全门派hs/转推多是hs/不回私信/不扩列/姐妹互关d我",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚楚🫐",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 292,
+          "like_count": 2614,
+          "listed_count": 7,
+          "tweet_count": 203
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T23:30:26.000Z",
+        "description": "",
+        "id": "1446618997206790147",
+        "name": "Rrrrr",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 523,
+          "like_count": 3341,
+          "listed_count": 25,
+          "tweet_count": 43
+        },
+        "username": "Rrrrr52326041",
+        "verified": false
+      }
+    ]
+  }
+}

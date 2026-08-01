@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1882790255658479616"
+      ],
+      "media_source_tweet_id": [
+        "1882790385464017033"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1911257264474013971",
+    "created_at": "2025-04-13T03:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T04:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911257264474013971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1073623230391283712",
+          "start": 3,
+          "username": "Goodness063026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Bpzj1CTWG",
+          "end": 60,
+          "expanded_url": "https://x.com/Goodness063026/status/1882790385464017033/video/1",
+          "media_key": "7_1882790255658479616",
+          "start": 37,
+          "url": "https://t.co/1Bpzj1CTWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911257264474013971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 719
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882790385464017033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goodness063026: 这黑粗大肉棒看着也太馋人了吧😍😍 https://t.co/1Bpzj1CTWG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1911257264474013971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1911257264474013971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911257264474013971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128133,
+        "height": 720,
+        "media_key": "7_1882790255658479616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1882790255658479616/pu/img/XJL4318iWIMW7njv.jpg",
+        "public_metrics": {
+          "view_count": 89599
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882790255658479616/pu/vid/avc1/320x320/NIl-w5x2L9RRpZJH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882790255658479616/pu/vid/avc1/540x540/ZotSlf4dpMu-jlg3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882790255658479616/pu/vid/avc1/720x720/C415XE6To3vX5VAO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1882790255658479616/pu/pl/xVjIgTDO3uBAkXN_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1882790255658479616"
+          ]
+        },
+        "author_id": "1073623230391283712",
+        "conversation_id": "1882790385464017033",
+        "created_at": "2025-01-24T13:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882790385464017033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Bpzj1CTWG",
+              "end": 40,
+              "expanded_url": "https://x.com/Goodness063026/status/1882790385464017033/video/1",
+              "media_key": "7_1882790255658479616",
+              "start": 17,
+              "url": "https://t.co/1Bpzj1CTWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882790385464017033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1818,
+          "impression_count": 370727,
+          "like_count": 4724,
+          "quote_count": 8,
+          "reply_count": 54,
+          "retweet_count": 719
+        },
+        "reply_settings": "everyone",
+        "text": "这黑粗大肉棒看着也太馋人了吧😍😍 https://t.co/1Bpzj1CTWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 350,
+          "like_count": 5095,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 413
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T16:58:19.000Z",
+        "description": "性冷淡晚期的痴女母人一枚",
+        "id": "1073623230391283712",
+        "name": "坏女人マキマ",
+        "pinned_tweet_id": "1874008146567717153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700412016593391616/6dvy1lYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108788,
+          "following_count": 3,
+          "like_count": 51,
+          "listed_count": 480,
+          "media_count": 797,
+          "tweet_count": 799
+        },
+        "username": "Goodness063026",
+        "verified": false
+      }
+    ]
+  }
+}

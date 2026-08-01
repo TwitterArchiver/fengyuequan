@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009352262221545472"
+      ],
+      "media_source_tweet_id": [
+        "2009352353531744357"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "conversation_id": "2016072215826202670",
+    "created_at": "2026-01-27T08:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016072215826202670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "置顶主页"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1352814694373810179",
+          "start": 3,
+          "username": "ximsmy"
+        },
+        {
+          "end": 32,
+          "id": "1535520276",
+          "start": 19,
+          "username": "Directorcrab"
+        },
+        {
+          "end": 40,
+          "id": "1675348044",
+          "start": 33,
+          "username": "myazmq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1OfvYVYYXI",
+          "end": 71,
+          "expanded_url": "https://x.com/ximsmy/status/2009352353531744357/video/1",
+          "media_key": "13_2009352262221545472",
+          "start": 48,
+          "url": "https://t.co/1OfvYVYYXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016072215826202670",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5606
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009352353531744357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ximsmy: wataa\n\n@Directorcrab\n@myazmq\n\n#置顶主页 https://t.co/1OfvYVYYXI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016072215826202670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016072215826202670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016072215826202670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45139,
+        "height": 720,
+        "media_key": "13_2009352262221545472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009352262221545472/img/hFSnvwgIwkR0o-mh.jpg",
+        "public_metrics": {
+          "view_count": 440060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009352262221545472/vid/avc1/386x270/wrfq-bSo3fMWTper.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009352262221545472/vid/avc1/514x360/iZcKpD85uC5nnNyg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009352262221545472/vid/avc1/1030x720/M0OLaigy1Lf23neV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009352262221545472/pl/xYbzbp_hJf7KNCJo.m3u8?tag=14"
+          }
+        ],
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009352262221545472"
+          ]
+        },
+        "author_id": "1352814694373810179",
+        "conversation_id": "2009352353531744357",
+        "created_at": "2026-01-08T19:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009352353531744357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "置顶主页"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1535520276",
+              "start": 7,
+              "username": "Directorcrab"
+            },
+            {
+              "end": 28,
+              "id": "1675348044",
+              "start": 21,
+              "username": "myazmq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OfvYVYYXI",
+              "end": 59,
+              "expanded_url": "https://x.com/ximsmy/status/2009352353531744357/video/1",
+              "media_key": "13_2009352262221545472",
+              "start": 36,
+              "url": "https://t.co/1OfvYVYYXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009352353531744357",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12809,
+          "impression_count": 1927731,
+          "like_count": 39828,
+          "quote_count": 52,
+          "reply_count": 0,
+          "retweet_count": 5606
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "wataa\n\n@Directorcrab\n@myazmq\n\n#置顶主页 https://t.co/1OfvYVYYXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 344,
+          "like_count": 5451,
+          "listed_count": 9,
+          "media_count": 30,
+          "tweet_count": 535
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-23T03:05:43.000Z",
+        "description": "（同城速配）世界如书卷，能玩一夜是一夜，游走在一到四线城市\n\n喜欢SM调教的大神飞机联系：https://t.co/Msm2xxPFSP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+tTzwTawXzdZmN…",
+                "end": 68,
+                "expanded_url": "https://t.me/+tTzwTawXzdZmNWY1",
+                "start": 45,
+                "url": "https://t.co/Msm2xxPFSP"
+              }
+            ]
+          }
+        },
+        "id": "1352814694373810179",
+        "name": "SM交友",
+        "pinned_tweet_id": "2012159653262528934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006979419252948992/LVbhi7YU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51484,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 83,
+          "media_count": 12,
+          "tweet_count": 14
+        },
+        "username": "ximsmy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-21T02:32:25.000Z",
+        "description": "",
+        "id": "1535520276",
+        "name": "Serge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997402713039003648/HHPWawQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 27
+        },
+        "username": "Directorcrab",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-16T10:21:48.000Z",
+        "description": "",
+        "id": "1675348044",
+        "name": "azizah Cheemouttthea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997403243274518529/XMu9eD-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 11
+        },
+        "username": "myazmq",
+        "verified": false
+      }
+    ]
+  }
+}

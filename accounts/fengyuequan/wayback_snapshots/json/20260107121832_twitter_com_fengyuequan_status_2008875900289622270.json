@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2008838796880879718",
+    "created_at": "2026-01-07T12:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008875900289622270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498586374173528064",
+          "start": 0,
+          "username": "guan81462457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008875900289622270",
+    "in_reply_to_user_id": "1498586374173528064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008861535020716058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guan81462457 那就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2008838796880879718",
+        "created_at": "2026-01-07T12:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008875900289622270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498586374173528064",
+              "start": 0,
+              "username": "guan81462457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008875900289622270",
+        "in_reply_to_user_id": "1498586374173528064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008861535020716058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guan81462457 那就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498586374173528064",
+        "conversation_id": "2008838796880879718",
+        "created_at": "2026-01-07T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008861535020716058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420786012469354501",
+              "start": 0,
+              "username": "fengyuequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008861535020716058",
+        "in_reply_to_user_id": "1420786012469354501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008838796880879718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengyuequan 早就不排队了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 339,
+          "like_count": 5193,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 465
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T09:10:17.000Z",
+        "description": "双梦黑皮刀爹丨🔞喜欢各种玩法丨酸角粥绝密普坝爱好者丨欢迎了解",
+        "id": "1498586374173528064",
+        "location": "Shanghai",
+        "name": "秃秃酱",
+        "pinned_tweet_id": "1934794626927612305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005059140239196160/4LzjL8ip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 607,
+          "like_count": 296,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 423
+        },
+        "username": "guan81462457",
+        "verified": false
+      }
+    ]
+  }
+}

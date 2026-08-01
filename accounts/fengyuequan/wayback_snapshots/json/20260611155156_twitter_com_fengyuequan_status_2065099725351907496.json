@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2065099725351907496",
+    "created_at": "2026-06-11T15:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065099725351907496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1899860500672110592",
+          "start": 3,
+          "username": "FrenchFriequq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065099725351907496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064780061719564764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrenchFriequq: 好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2065099725351907496",
+        "created_at": "2026-06-11T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065099725351907496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1899860500672110592",
+              "start": 3,
+              "username": "FrenchFriequq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065099725351907496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064780061719564764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrenchFriequq: 好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899860500672110592",
+        "conversation_id": "2064780061719564764",
+        "created_at": "2026-06-10T18:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064780061719564764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064780061719564764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 153446,
+          "like_count": 6567,
+          "quote_count": 158,
+          "reply_count": 203,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想想爽的不行了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "咬咬",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 330,
+          "like_count": 6125,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 643
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:31:15.000Z",
+        "description": "",
+        "id": "1899860500672110592",
+        "name": "linna k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860751109808128/5MD_0_oH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 159,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 352
+        },
+        "username": "FrenchFriequq",
+        "verified": false
+      }
+    ]
+  }
+}

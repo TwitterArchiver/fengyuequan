@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1880171693702017030"
+      ],
+      "media_source_tweet_id": [
+        "1880214903509897621"
+      ]
+    },
+    "author_id": "1420786012469354501",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880278445374206265",
+    "created_at": "2025-01-17T15:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880278445374206265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "905228598",
+          "start": 3,
+          "username": "BeverlyAdkins5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkZjylrSQd",
+          "end": 47,
+          "expanded_url": "https://x.com/BeverlyAdkins5/status/1880214903509897621/video/1",
+          "media_key": "13_1880171693702017030",
+          "start": 24,
+          "url": "https://t.co/KkZjylrSQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880278445374206265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880214903509897621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeverlyAdkins5: jav https://t.co/KkZjylrSQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6178644,
+        "height": 720,
+        "media_key": "13_1880171693702017030",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1880171693702017030/img/WcyE3SUCAoOai08v.jpg",
+        "public_metrics": {
+          "view_count": 14466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880171693702017030/vid/avc1/480x270/698cyXWrV9vbcXNw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880171693702017030/vid/avc1/640x360/p-2qz0GSch06nV-z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880171693702017030/vid/avc1/1280x720/E0Gk2IqmFANDBM4m.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1880171693702017030/pl/cmpSKWW9x_6sQ2O4.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880171693702017030"
+          ],
+          "media_source_tweet_id": [
+            "1880214903509897621"
+          ]
+        },
+        "author_id": "1420786012469354501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880278445374206265",
+        "created_at": "2025-01-17T15:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880278445374206265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "905228598",
+              "start": 3,
+              "username": "BeverlyAdkins5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkZjylrSQd",
+              "end": 47,
+              "expanded_url": "https://x.com/BeverlyAdkins5/status/1880214903509897621/video/1",
+              "media_key": "13_1880171693702017030",
+              "start": 24,
+              "url": "https://t.co/KkZjylrSQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880278445374206265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880214903509897621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeverlyAdkins5: jav https://t.co/KkZjylrSQd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880171693702017030"
+          ]
+        },
+        "author_id": "905228598",
+        "conversation_id": "1880214903509897621",
+        "created_at": "2025-01-17T11:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T12:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880214903509897621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkZjylrSQd",
+              "end": 27,
+              "expanded_url": "https://x.com/BeverlyAdkins5/status/1880214903509897621/video/1",
+              "media_key": "13_1880171693702017030",
+              "start": 4,
+              "url": "https://t.co/KkZjylrSQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880214903509897621",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 41621,
+          "like_count": 640,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "jav https://t.co/KkZjylrSQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "风月也都倦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1440496791749685253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 337,
+          "like_count": 4033,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 286
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-26T03:50:24.000Z",
+        "description": "Hey! I'm Ava. I believe in hard work, fun weekends, and making memories. #WorkHardPlayHard",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 73,
+                "tag": "WorkHardPlayHard"
+              }
+            ]
+          }
+        },
+        "id": "905228598",
+        "name": "Beverly Adkins",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798712353175085056/_ITAsMaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 19,
+          "like_count": 8,
+          "listed_count": 21,
+          "media_count": 5,
+          "tweet_count": 144
+        },
+        "username": "BeverlyAdkins5",
+        "verified": false
+      }
+    ]
+  }
+}

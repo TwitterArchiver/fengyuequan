@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1898209039902974122",
+    "created_at": "2025-03-08T03:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T04:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898209039902974122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1190007883431153664",
+          "start": 3,
+          "username": "av_sensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898209039902974122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895359419632038350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @av_sensei: FANZA【新着動画紹介】\n\n顔出しMM号 レーシングブルマ限定 ザ・マジックミラー 陸上部女子大生が青空アダルト体力測定に挑戦！全9種目 ち○ぽ密着のセクハラ計測で濡れちゃったアスリートおま○こにデカチン生挿入！全員中出し！ https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898209039902974122].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898209039902974122",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898209039902974122"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79071,
+        "height": 432,
+        "media_key": "7_1895359285288411140",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895359285288411140/pu/img/MGeZt7qW6OdfHpy9.jpg",
+        "public_metrics": {
+          "view_count": 17752
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895359285288411140/pu/vid/avc1/480x270/Ve6mktKRJ1uUGTKd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895359285288411140/pu/vid/avc1/768x432/DBhbsbC1F47XIc_R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895359285288411140/pu/pl/MCbpv5N_pKdXV8UN.m3u8?tag=12"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895359285288411140"
+          ]
+        },
+        "author_id": "1190007883431153664",
+        "conversation_id": "1895359419632038350",
+        "created_at": "2025-02-28T06:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T07:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895359419632038350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KctyZitoR8",
+              "end": 137,
+              "expanded_url": "https://x.com/av_sensei/status/1895359419632038350/video/1",
+              "media_key": "7_1895359285288411140",
+              "start": 114,
+              "url": "https://t.co/KctyZitoR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895359419632038350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 44066,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "FANZA【新着動画紹介】\n\n顔出しMM号 レーシングブルマ限定 ザ・マジックミラー 陸上部女子大生が青空アダルト体力測定に挑戦！全9種目 ち○ぽ密着のセクハラ計測で濡れちゃったアスリートおま○こにデカチン生挿入！全員中出し！ https://t.co/KctyZitoR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 339,
+          "like_count": 4653,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 361
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-31T20:49:31.000Z",
+        "description": "AV女優や作品名が分からなくて困っている方へこっそり教えちゃいます。※DMでの特定依頼にはお答えしておりません。ご了承下さい。\n\n※休止していたAVの特定を再開しました。今後は気が向いた時だけ特定することにします。あまり期待しないで下さいね。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "av-sensei.com",
+                "end": 23,
+                "expanded_url": "https://av-sensei.com/",
+                "start": 0,
+                "url": "https://t.co/DW9CoOO8KB"
+              }
+            ]
+          }
+        },
+        "id": "1190007883431153664",
+        "name": "教えてAV先生",
+        "pinned_tweet_id": "1895594974584193188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190045466542526464/y8EuX9lL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593912,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 3325,
+          "media_count": 39040,
+          "tweet_count": 112203
+        },
+        "url": "https://t.co/DW9CoOO8KB",
+        "username": "av_sensei",
+        "verified": true
+      }
+    ]
+  }
+}

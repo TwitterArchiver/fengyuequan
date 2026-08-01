@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1899474698452484432",
+    "created_at": "2025-03-11T14:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899474698452484432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567856289199566848",
+          "start": 3,
+          "username": "OceanDive6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899474698452484432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827542839942856737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OceanDive6: 傻逼母狗们，是不是昨天晚上又窝在你满是屄臭和屄毛的宿舍床上，看着手机阴暗的光看着男爹黄推无脑扣屄了一整晚，幻想被男爹鸡巴奸烂你的发情母狗屄呢w\n像你们这样闷骚犯贱的扣屄废物母猪，一辈子只配跪在手机前给男爹鸡巴磕头\n你这样人前女权人后丧志无脑回家就…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899474698452484432].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899474698452484432",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899474698452484432"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44966,
+        "height": 720,
+        "media_key": "7_1827542041544327168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1827542041544327168/pu/img/VUX2vG42fN3H9SIC.jpg",
+        "public_metrics": {
+          "view_count": 42023
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827542041544327168/pu/vid/avc1/320x320/wqYdhZHbwoRhVk3V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827542041544327168/pu/vid/avc1/540x540/r-R521GKZxKVXI7O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1827542041544327168/pu/vid/avc1/720x720/Ryll0GoEdmEsCvHJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1827542041544327168/pu/pl/v_5oP7eG6YALsjZv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827542041544327168"
+          ]
+        },
+        "author_id": "1567856289199566848",
+        "conversation_id": "1827542839942856737",
+        "created_at": "2024-08-25T03:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T04:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827542839942856737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDNHxj95kQ",
+              "end": 166,
+              "expanded_url": "https://x.com/OceanDive6/status/1827542839942856737/video/1",
+              "media_key": "7_1827542041544327168",
+              "start": 143,
+              "url": "https://t.co/aDNHxj95kQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827542839942856737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 111512,
+          "like_count": 969,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼母狗们，是不是昨天晚上又窝在你满是屄臭和屄毛的宿舍床上，看着手机阴暗的光看着男爹黄推无脑扣屄了一整晚，幻想被男爹鸡巴奸烂你的发情母狗屄呢w\n像你们这样闷骚犯贱的扣屄废物母猪，一辈子只配跪在手机前给男爹鸡巴磕头\n你这样人前女权人后丧志无脑回家就开始扣屄的闷骚傻逼贱样，男爹最喜欢了w https://t.co/aDNHxj95kQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 339,
+          "like_count": 4704,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 364
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:44:16.000Z",
+        "description": "1.文爱调教，羞辱洗脑 \n2.评价婊子，鉴定亲友 \n3.受理母猪证办理（＊需验证）\n4.母猪资格考试(置顶) \n5.女性自我启发问卷 https://t.co/ZC1lHGFFrd \n6. 照片动画风淫图化\n7.偷偷問我問題 https://t.co/xrF99UJ9Yw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/r/1iEiAtjsLG",
+                "end": 90,
+                "expanded_url": "https://forms.office.com/r/1iEiAtjsLG",
+                "start": 67,
+                "url": "https://t.co/ZC1lHGFFrd"
+              },
+              {
+                "display_url": "ngl.link/oceandive6",
+                "end": 136,
+                "expanded_url": "https://ngl.link/oceandive6",
+                "start": 113,
+                "url": "https://t.co/xrF99UJ9Yw"
+              }
+            ]
+          }
+        },
+        "id": "1567856289199566848",
+        "name": "OceanDive",
+        "pinned_tweet_id": "1647810342159028225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886443721178374146/eYjH2Ngj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26783,
+          "following_count": 909,
+          "like_count": 7244,
+          "listed_count": 99,
+          "media_count": 889,
+          "tweet_count": 3481
+        },
+        "username": "OceanDive6",
+        "verified": false
+      }
+    ]
+  }
+}
