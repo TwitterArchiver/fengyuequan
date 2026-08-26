@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "1902408143969435748",
+    "created_at": "2025-03-19T17:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T18:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902408143969435748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771513890138132480",
+          "start": 3,
+          "username": "xshu3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902408143969435748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901686957287338112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xshu3064: 别人的性生活：大do特do\n我的性生活：嘿嘿嘿偷偷躲被窝里亮度声音开最低搜几个po文av看看嘿嘿嘿嘿嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "1902408143969435748",
+        "created_at": "2025-03-19T17:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T18:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902408143969435748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771513890138132480",
+              "start": 3,
+              "username": "xshu3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902408143969435748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901686957287338112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xshu3064: 别人的性生活：大do特do\n我的性生活：嘿嘿嘿偷偷躲被窝里亮度声音开最低搜几个po文av看看嘿嘿嘿嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771513890138132480",
+        "conversation_id": "1901686957287338112",
+        "created_at": "2025-03-17T17:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T18:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901686957287338112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901686957287338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 134202,
+          "like_count": 1631,
+          "quote_count": 86,
+          "reply_count": 65,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "别人的性生活：大do特do\n我的性生活：嘿嘿嘿偷偷躲被窝里亮度声音开最低搜几个po文av看看嘿嘿嘿嘿嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "去做场白日梦。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "楚",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 344,
+          "like_count": 4787,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 371
+        },
+        "username": "fengyuequan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "巳巳如意",
+        "id": "1771513890138132480",
+        "name": "湫",
+        "pinned_tweet_id": "1902290747665023361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19217,
+          "following_count": 61,
+          "like_count": 74,
+          "listed_count": 28,
+          "media_count": 144,
+          "tweet_count": 3159
+        },
+        "username": "xshu3064",
+        "verified": false
+      }
+    ]
+  }
+}
