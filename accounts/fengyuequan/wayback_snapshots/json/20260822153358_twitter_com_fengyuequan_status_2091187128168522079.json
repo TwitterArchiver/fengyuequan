@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2091187128168522079",
+    "created_at": "2026-08-22T15:33:58.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091187128168522079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1762372293559476224",
+          "start": 3,
+          "username": "oo3790310189007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091187128168522079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090901183573770619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oo3790310189007: 我的xp是被看见。恋爱最爽的地方是意识到对方真的有看见我，互相窥见彼此不愿宣之于口的东西。像在黑暗里触摸爱人的模样，打哑谜的猜测在对方心中的分量，但实在知道我们确确实实渴望着对方，眷恋着对方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2091187128168522079",
+        "created_at": "2026-08-22T15:33:58.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091187128168522079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1762372293559476224",
+              "start": 3,
+              "username": "oo3790310189007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091187128168522079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090901183573770619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oo3790310189007: 我的xp是被看见。恋爱最爽的地方是意识到对方真的有看见我，互相窥见彼此不愿宣之于口的东西。像在黑暗里触摸爱人的模样，打哑谜的猜测在对方心中的分量，但实在知道我们确确实实渴望着对方，眷恋着对方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762372293559476224",
+        "conversation_id": "2090901183573770619",
+        "created_at": "2026-08-21T20:37:43.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090901183573770619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090901183573770619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6678,
+          "like_count": 285,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我的xp是被看见。恋爱最爽的地方是意识到对方真的有看见我，互相窥见彼此不愿宣之于口的东西。像在黑暗里触摸爱人的模样，打哑谜的猜测在对方心中的分量，但实在知道我们确确实实渴望着对方，眷恋着对方。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "is_identity_verified": false,
+        "location": "长安",
+        "most_recent_tweet_id": "2091187128168522079",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420786012469354501/1627585074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 335,
+          "like_count": 6300,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-27T07:01:38.000Z",
+        "description": "",
+        "id": "1762372293559476224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091172772194193494",
+        "name": "o-o",
+        "pinned_tweet_id": "2085938524692570172",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762372293559476224/1785495899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146856482353152/Ppl9Nkp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 90,
+          "like_count": 4529,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "oo3790310189007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

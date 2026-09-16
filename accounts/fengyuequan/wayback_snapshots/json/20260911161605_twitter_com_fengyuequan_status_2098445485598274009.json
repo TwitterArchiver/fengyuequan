@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2098445485598274009",
+    "created_at": "2026-09-11T16:16:05.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098445485598274009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dokibll2/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/dokibll2/status/2098435658570477774",
+          "start": 4,
+          "url": "https://t.co/lZO9xuqa3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098445485598274009",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098435658570477774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "QAQ https://t.co/lZO9xuqa3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19633,
+        "height": 2048,
+        "media_key": "13_2098434695289864192",
+        "preview_image_url": "https://pbs.twimg.com/media/HR8jPMjaMAAocbu.jpg",
+        "public_metrics": {
+          "view_count": 1414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098434695289864192/vid/avc1/720x1280/ZQ8pQQjuSYQBmEWs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098434695289864192/pl/NlZP8VfjSYM_gztc.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098434695289864192/vid/avc1/480x852/AxNCRkfvAiC42w0L.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098434695289864192/vid/avc1/320x568/ZRR299aMEBnMXNJk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098434695289864192/vid/avc1/1440x2560/Yx_OiRl2b2LhU8XA.mp4"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2098445485598274009",
+        "created_at": "2026-09-11T16:16:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098445485598274009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dokibll2/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/dokibll2/status/2098435658570477774",
+              "start": 4,
+              "url": "https://t.co/lZO9xuqa3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098445485598274009",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098435658570477774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "QAQ https://t.co/lZO9xuqa3k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098434695289864192"
+          ]
+        },
+        "author_id": "2056988832051150850",
+        "conversation_id": "2098435658570477774",
+        "created_at": "2026-09-11T15:37:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:33:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098434819659354469",
+          "2098435658570477774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUGs1RJHRj",
+              "end": 31,
+              "expanded_url": "https://x.com/dokibll2/status/2098435658570477774/video/1",
+              "media_key": "13_2098434695289864192",
+              "start": 8,
+              "url": "https://t.co/zUGs1RJHRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098435658570477774",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098434695289864192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2423,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真的有这么难吗 https://t.co/zUGs1RJHRj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "is_identity_verified": false,
+        "location": "长安",
+        "most_recent_tweet_id": "2098445485598274009",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420786012469354501/1627585074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 333,
+          "like_count": 6303,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T06:42:20.000Z",
+        "description": "分享嘟奇的日常|淘宝官方店铺【Doki之夜】|抖音:嘟奇|官方@dokiatnight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "dokiatnight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop64293970.m.taobao.com/?userId=132955…",
+                "end": 23,
+                "expanded_url": "https://shop64293970.m.taobao.com/?userId=132955656",
+                "start": 0,
+                "url": "https://t.co/iqAjVdck7p"
+              }
+            ]
+          }
+        },
+        "id": "2056988832051150850",
+        "is_identity_verified": false,
+        "location": "淘宝",
+        "most_recent_tweet_id": "2098435658570477774",
+        "name": "嘟奇",
+        "pinned_tweet_id": "2098045028459598011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056988832051150850/1779259844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056990947721043968/xXDwVLoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117154,
+          "following_count": 38,
+          "like_count": 77,
+          "listed_count": 132,
+          "media_count": 199,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/iqAjVdck7p",
+        "username": "dokibll2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

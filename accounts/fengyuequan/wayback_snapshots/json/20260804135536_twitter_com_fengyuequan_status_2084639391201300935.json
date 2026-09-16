@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2084639391201300935",
+    "created_at": "2026-08-04T13:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084639391201300935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084639391201300935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然感觉青盒子毒姐也很好品，明明跟毒姐衣柜里其他外观风格截然不同，但是穿着频率竟然也不低。\n原来是纯阳根据自己审美给老婆买的衣服，暗戳戳准备情侣装是吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2084639391201300935",
+        "created_at": "2026-08-04T13:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084639391201300935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084639391201300935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉青盒子毒姐也很好品，明明跟毒姐衣柜里其他外观风格截然不同，但是穿着频率竟然也不低。\n原来是纯阳根据自己审美给老婆买的衣服，暗戳戳准备情侣装是吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Changchi, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  106.65814,
+                  32.16377
+                ],
+                "type": "Point"
+              },
+              "locality": "Changchi",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "location": "长安",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 336,
+          "like_count": 6306,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false
+      }
+    ]
+  }
+}
