@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2104245080353906877",
+    "created_at": "2026-09-27T16:21:36.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104245080353906877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "578028638",
+          "start": 3,
+          "username": "Xkoushuukin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104245080353906877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103868054035972592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xkoushuukin: 好奇怪啊 \n我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系\n性瘾和纯爱能同时存在吗？好矛盾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2104245080353906877",
+        "created_at": "2026-09-27T16:21:36.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104245080353906877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "578028638",
+              "start": 3,
+              "username": "Xkoushuukin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104245080353906877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103868054035972592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xkoushuukin: 好奇怪啊 \n我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系\n性瘾和纯爱能同时存在吗？好矛盾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "578028638",
+        "conversation_id": "2103868054035972592",
+        "created_at": "2026-09-26T15:23:26.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103868054035972592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103868054035972592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 84308,
+          "like_count": 1734,
+          "quote_count": 14,
+          "reply_count": 208,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪啊 \n我这种性瘾和欲望都这么强烈的人居然渴望是健康的恋爱关系\n性瘾和纯爱能同时存在吗？好矛盾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "is_identity_verified": false,
+        "location": "长安",
+        "most_recent_tweet_id": "2104245080353906877",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420786012469354501/1627585074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 332,
+          "like_count": 6318,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-12T12:52:57.000Z",
+        "description": "",
+        "id": "578028638",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2104238944154173833",
+        "name": "人类观察者X",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2214309412/psb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 46,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Xkoushuukin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

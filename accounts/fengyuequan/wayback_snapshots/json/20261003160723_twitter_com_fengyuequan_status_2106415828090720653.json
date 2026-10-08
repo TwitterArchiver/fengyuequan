@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2106415828090720653",
+    "created_at": "2026-10-03T16:07:23.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106415828090720653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045745587006377984",
+          "start": 3,
+          "username": "LaMaroqui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106415828090720653",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106060868655972399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaMaroqui_: j'avoue j'suis grave obsédée par l'idée que des mecs se branlent en pensant à moi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2106415828090720653",
+        "created_at": "2026-10-03T16:07:23.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106415828090720653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045745587006377984",
+              "start": 3,
+              "username": "LaMaroqui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106415828090720653",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106060868655972399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaMaroqui_: j'avoue j'suis grave obsédée par l'idée que des mecs se branlent en pensant à moi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045745587006377984",
+        "conversation_id": "2106060868655972399",
+        "created_at": "2026-10-02T16:36:54.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106060868655972399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106060868655972399",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 33143,
+          "like_count": 1854,
+          "quote_count": 22,
+          "reply_count": 16,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "j'avoue j'suis grave obsédée par l'idée que des mecs se branlent en pensant à moi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "is_identity_verified": false,
+        "location": "长安",
+        "most_recent_tweet_id": "2106415828090720653",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420786012469354501/1627585074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 330,
+          "like_count": 6344,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T06:05:40.000Z",
+        "description": "Marocaine - Viens me parler ici 👉🏽 https://t.co/OFmDvTmzD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+m3qLZ8wEwUVhZ…",
+                "end": 58,
+                "expanded_url": "http://telegram.me/+m3qLZ8wEwUVhZmM0",
+                "start": 35,
+                "url": "https://t.co/OFmDvTmzD6"
+              }
+            ]
+          }
+        },
+        "id": "2045745587006377984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106363590462603320",
+        "name": "Maroqui 🇲🇦",
+        "pinned_tweet_id": "2058552942966247487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045745587006377984/1780714925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045745695072641024/UN2UTVag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 22,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "LaMaroqui_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

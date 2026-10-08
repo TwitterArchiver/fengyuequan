@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1420786012469354501",
+    "conversation_id": "2107139022334431711",
+    "created_at": "2026-10-05T16:01:06.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107139022334431711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901568054171156480",
+          "start": 3,
+          "username": "YOYA0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107139022334431711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106439772155834613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YOYA0T: 这辈子一定要做的四件事\n1 一定要被青筋手扣一次逼\n2 一定要在大胸肌腹肌男身上磨一次逼\n3 一定要在健硕的小臂上蹭一次逼\n4 一定要在长得帅有高鼻梁的脸上喷一次水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420786012469354501",
+        "conversation_id": "2107139022334431711",
+        "created_at": "2026-10-05T16:01:06.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107139022334431711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901568054171156480",
+              "start": 3,
+              "username": "YOYA0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107139022334431711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106439772155834613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YOYA0T: 这辈子一定要做的四件事\n1 一定要被青筋手扣一次逼\n2 一定要在大胸肌腹肌男身上磨一次逼\n3 一定要在健硕的小臂上蹭一次逼\n4 一定要在长得帅有高鼻梁的脸上喷一次水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901568054171156480",
+        "conversation_id": "2106439772155834613",
+        "created_at": "2026-10-03T17:42:32.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106439772155834613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106439772155834613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2530,
+          "impression_count": 871691,
+          "like_count": 22969,
+          "quote_count": 301,
+          "reply_count": 463,
+          "retweet_count": 2480
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子一定要做的四件事\n1 一定要被青筋手扣一次逼\n2 一定要在大胸肌腹肌男身上磨一次逼\n3 一定要在健硕的小臂上蹭一次逼\n4 一定要在长得帅有高鼻梁的脸上喷一次水"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T16:39:35.000Z",
+        "description": "心事吻遍明月。",
+        "id": "1420786012469354501",
+        "is_identity_verified": false,
+        "location": "长安",
+        "most_recent_tweet_id": "2107139022334431711",
+        "name": "超级无敌黏人精上线",
+        "pinned_tweet_id": "1891068312450216177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420786012469354501/1627585074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807782339868762112/KFb7uR61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 330,
+          "like_count": 6343,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "fengyuequan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T09:36:10.000Z",
+        "description": "匿名提问箱 https://t.co/BqBTxcdHxv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoya0t1",
+                "end": 29,
+                "expanded_url": "https://ngl.link/yoya0t1",
+                "start": 6,
+                "url": "https://t.co/BqBTxcdHxv"
+              }
+            ]
+          }
+        },
+        "id": "1901568054171156480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107125498623250490",
+        "name": "H",
+        "pinned_tweet_id": "2063222593826718176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901568054171156480/1781861994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067855564722565120/yKHv_c9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 3,
+          "like_count": 746,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "YOYA0T",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
